@@ -1,0 +1,6 @@
+claim,category,evidence,source,reason
+"The predicted Bitcoin closing price for October 29, 2026, is 78,207.90 USD.",Supported,"""predicted_close"": 78207.8984375",ORIGINAL LSTM FORECAST RECORD,"The original forecast record explicitly specifies a predicted close of 78,207.8984375 USD for the forecast date 2026-10-29, which rounds to 78,207.90 USD."
+"Bitcoin slipped below $80,000 ahead of the Federal Reserve's rate decision and big tech earnings.",Supported,Bitcoin (BTC) is bracing for its weakest October in six years as U.S. investors retreat from the market ahead of the Federal Reserve's rate decision later on Wednesday.,Stocktwits (Article 2),
+Bitcoin was on track for its weakest October in six years as U.S. buyers retreated and spot demand remained negative.,Supported,Bitcoin (BTC) is bracing for its weakest October in six years as U.S. investors retreat from the market ahead of the Federal Reserve's rate decision later on Wednesday.,Stocktwits (Article 2),
+The Federal Reserve held benchmark interest rates steady at 3.75% to 4%.,Supported,The Federal Open Market Committee (FOMC) maintained the federal funds rate at 3.75%-4.00% in a 10-2 vote...,Investing.com (Article 5),
+CryptoQuant's Bull Score Index fell from 90 to 60.,Supported,"CryptoQuant's Bull Score Index, which aggregates 10 market indicators, has fallen from 90 to 60.",Stocktwits (Article 2),

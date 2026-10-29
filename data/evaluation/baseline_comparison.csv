@@ -1,0 +1,6 @@
+Evaluation Aspect,LSTM-only Baseline,Hybrid Framework,Comparison
+Price Forecasting,Provides numerical Bitcoin price forecasts.,Uses the same LSTM forecast.,Both approaches use the same underlying forecast.
+Financial News Retrieval,Does not retrieve financial news.,Retrieves relevant Bitcoin market news.,The hybrid framework adds financial news context.
+Market Context,Does not provide LLM-generated market interpretation.,Uses retrieved news to provide market context.,The hybrid framework adds contextual interpretation.
+Potential Risk Analysis,Does not generate a separate LLM-based risk analysis.,Generates potential risk information through the LLM.,The hybrid framework adds an explicit risk interpretation.
+Investment Insights,Provides the numerical forecast without LLM-generated insights.,"Combines the forecast, retrieved news, and LLM-generated insights.",The hybrid framework provides additional interpretative information.

@@ -1,598 +1,31 @@
 ﻿similarity_rank,similarity_score,title,source,published_at_utc,link,summary,content,retrieval_text,content_status
-1,0.6268066,Bitcoin Could Be Entering a New Bull Market Despite Latest Sell-Off,BeInCrypto,2026-10-11 19:22:47+00:00,https://finance.yahoo.com/markets/crypto/articles/bitcoin-could-entering-bull-market-192247637.html,"BloFin Research says Bitcoin's new bull market remains intact despite the latest sell-off, as historical data suggests its boom-and-bust cycles are weakening.","Despite the market dip and liquidations over the past week, Bitcoin has seemingly entered a bull market, as the analysis of its 50-week moving average shows.
+1,0.6224464,"Bitcoin Slips Ahead Of Fed Week, Big Tech Earnings: Analysts Divided On Where BTC Is Headed Next",Stocktwits,2026-10-26 10:21:09+00:00,https://finance.yahoo.com/markets/crypto/articles/bitcoin-slips-ahead-fed-week-102109185.html,Analyst Michaël van de Poppe pointed to BTC’s 120% annualized return since 2011 against 6% for gold.,"Bitcoin slipped below $80,000 on Monday, dipping to around $79,330 in the past day, near its lowest level since mid-September.
 
-BloFin Research argues that Bitcoin's traditional four-year boom-and-bust cycle is gradually losing strength. Future rallies could deliver smaller gains, followed by shorter and less severe downturns.
+Analyst Ted Pillows warned that losing the $80,000 zone on the weekly chart could lead to ""capitulation soon.""
 
-The strongest evidence comes from Bitcoin's recovery above its 50-week moving average, a technical indicator that previously signaled bull-market transitions in 2015, 2019 and 2023.
+The Fed decides on rates Wednesday, with Microsoft, Alphabet and Amazon earnings also set to be released this week.
 
-Bitcoin reclaimed this level near $78,800 in September. It subsequently traded above $86,000 in early October.
+Bitcoin's (BTC) price slipped below $80,000 on Monday ahead of the Federal Reserve's rate decision and earnings from Microsoft (MSFT), Alphabet (GOOG), and Amazon (AMZN) this week, with crypto analysts split on where Bitcoin is headed next.
 
-Meanwhile, Bitcoin's MVRV ratio, which compares its current market value with the average price investors paid for their coins, moved above its annual average.
-
-As of October 11, MVRV stood near 1.54, above its 365-day average of 1.44. This suggests the longer-term recovery remains intact despite recent selling.
-
-It means Bitcoin's market strength is improving, a signal that has previously appeared during the early stages of bull markets.
-
-BloFin's most significant finding concerns the declining severity of Bitcoin's market cycles.
-
-Bitcoin fell approximately 53% from its October 2025 peak of $124,824 to $58,525 in June 2026.
-
-Previous bear markets were considerably worse:
-
-Bear market
-
-Peak-to-trough decline
-
-2013–2015
-
-84.5%
-
-2017–2018
-
-83.8%
-
-2021–2022
-
-76.7%
-
-2025–2026
-
-53%
-
-Bull-market gains have also narrowed. Bitcoin's trough-to-peak returns have declined from roughly 530 times in its earliest cycle to eight times in the most recent one.
-
-If June remains the bottom, the latest bear market lasted approximately eight months, compared with 12–13 months historically.
-
-BloFin Research attributes much of this change to longer-term ownership. In September, approximately 16.64 million BTC, or 83% of circulating supply, had remained unmoved for at least 155 days.
-
-Meanwhile, US spot Bitcoin ETFs held around 1.3 million BTC on October 2. Public companies owned another 1.29 million BTC.
-
-Together, ETFs and corporate treasuries controlled approximately 13% of circulating Bitcoin.
-
-However, last week's $679 million ETF outflow shows that institutional demand can still weaken sharply during market stress.
-
-Bitcoin was trading around $83,000 on October 11, still above the September moving-average breakout level and well above its June low.
-
-The four-year cycle also remains visible. Bitcoin peaked roughly 18 months after the April 2024 halving, consistent with historical patterns.
-
-For traders, a sustained move below the current 50-week moving average would weaken the bullish signal. A break beneath $58,525 would challenge the proposed cycle bottom.
-
-For now, Bitcoin's longer-term recovery indicators remain positive. The recent ETF withdrawals show why the transition toward a more stable market could still involve sharp corrections.
-
-Read the Original story Bitcoin Could Be Entering a New Bull Market Despite Latest Sell-Off by BloFin Research at beincrypto.com","Title: Bitcoin Could Be Entering a New Bull Market Despite Latest Sell-Off
-Summary: BloFin Research says Bitcoin's new bull market remains intact despite the latest sell-off, as historical data suggests its boom-and-bust cycles are weakening.
-Content: Despite the market dip and liquidations over the past week, Bitcoin has seemingly entered a bull market, as the analysis of its 50-week moving average shows.
-
-BloFin Research argues that Bitcoin's traditional four-year boom-and-bust cycle is gradually losing strength. Future rallies could deliver smaller gains, followed by shorter and less severe downturns.
-
-The strongest evidence comes from Bitcoin's recovery above its 50-week moving average, a technical indicator that previously signaled bull-market transitions in 2015, 2019 and 2023.
-
-Bitcoin reclaimed this level near $78,800 in September. It subsequently traded above $86,000 in early October.
-
-Meanwhile, Bitcoin's MVRV ratio, which compares its current market value with the average price investors paid for their coins, moved above its annual average.
-
-As of October 11, MVRV stood near 1.54, above its 365-day average of 1.44. This suggests the longer-term recovery remains intact despite recent selling.
-
-It means Bitcoin's market strength is improving, a signal that has previously appeared during the early stages of bull markets.
-
-BloFin's most significant finding concerns the declining severity of Bitcoin's market cycles.
-
-Bitcoin fell approximately 53% from its October 2025 peak of $124,824 to $58,525 in June 2026.
-
-Previous bear markets were considerably worse:
-
-Bear market
-
-Peak-to-trough decline
-
-2013–2015
-
-84.5%
-
-2017–2018
-
-83.8%
-
-2021–2022
-
-76.7%
-
-2025–2026
-
-53%
-
-Bull-market gains have also narrowed. Bitcoin's trough-to-peak returns have declined from roughly 530 times in its earliest cycle to eight times in the most recent one.
-
-If June remains the bottom, the latest bear market lasted approximately eight months, compared with 12–13 months historically.
-
-BloFin Research attributes much of this change to longer-term ownership. In September, approximately 16.64 million BTC, or 83% of circulating supply, had remained unmoved for at least 155 days.
-
-Meanwhile, US spot Bitcoin ETFs held around 1.3 million BTC on October 2. Public companies owned another 1.29 million BTC.
-
-Together, ETFs and corporate treasuries controlled approximately 13% of circulating Bitcoin.
-
-However, last week's $679 million ETF outflow shows that institutional demand can still weaken sharply during market stress.
-
-Bitcoin was trading around $83,000 on October 11, still above the September moving-average breakout level and well above its June low.
-
-The four-year cycle also remains visible. Bitcoin peaked roughly 18 months after the April 2024 halving, consistent with historical patterns.
-
-For traders, a sustained move below the current 50-week moving average would weaken the bullish signal. A break beneath $58,525 would challenge the proposed cycle bottom.
-
-For now, Bitcoin's longer-term recovery indicators remain positive. The recent ETF withdrawals show why the transition toward a more stable market could still involve sharp corrections.
-
-Read the Original story Bitcoin Could Be Entering a New Bull Market Despite Latest Sell-Off by BloFin Research at beincrypto.com",summary_and_content
-2,0.6261334,"Bitcoin and ethereum prices today, Monday, October 12, 2026: How bond yields 'threaten' crypto prices",Yahoo Personal Finance,2026-10-12 11:40:18+00:00,https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-october-12-2026-how-bond-yields-threaten-crypto-prices-114018710.html,"Bitcoin opened at $83,673.01 on Monday, October 12, 2026, up 0.9% from Sunday's opening price. As of 7:25 a.m. ET this morning, bitcoin dipped to $83,280.11. Ethereum opened at $2,534.30, up 1.2% from Sunday's opening price. The price of ethereum moved slightly higher this morning to $2,543.06 as of 7:25 a.m. ET.","Bitcoin ( BTC-USD ) opened at $83,673.01 on Monday, October 12, 2026 , up 0.9% from Sunday's opening price. As of 7:25 a.m. ET this morning, bitcoin dipped to $83,280.11.
-
-Ethereum ( ETH-USD ) opened at $2,534.30 on Monday, October 12, 2026 , up 1.2% from Sunday's opening price. The price of ethereum moved slightly higher this morning to $2,543.06 as of 7:25 a.m. ET.
-
-Bitcoin and ethereum prices have regained some ground from lower opening prices on Friday, and are generally back in line with where prices opened last Thursday.
-
-The same forces that drove crypto prices lower toward the end of last week are still firmly in play this week, including the ever-growing AI bubble, geopolitical tensions in the Middle East, and Treasury yields hitting historic highs.
-
-Here's more on how bond yields ""threaten"" crypto prices:
-
-US Treasury bonds offer investors regular interest payments backed by the government. When their yields rise, investors can earn higher returns without taking the same risks associated with cryptocurrencies.
-
-Bitcoin pays no fixed interest. As a result, higher Treasury yields can encourage investors to move capital into government bonds or hold cash.
-
-Bitunix argues that this shift in investor preferences is creating additional pressure on Bitcoin and other speculative assets.
-
-The risk extends beyond crypto. Higher yields also increase borrowing costs and can reduce the appeal of technology stocks. Bitunix reported weekly declines in crypto-linked equities, including Strategy and Circle.
-
-Keep reading: Bitcoin's Next Move Depends on the US Bond Market and Inflation Report
-
-Bitcoin's price this morning, Monday, October 12, 2026 , was up 0.9% from Sunday's opening price. Here's a look at how the opening bitcoin price has changed versus last week, month, and year:
-
-One week ago: -3.2%
-
-One month ago: +8.4%
-
-One year ago: -24.5%
-
-The all-time high for bitcoin was $126,198.07 on Oct. 6, 2025. The all-time low value for bitcoin was $0.04865 on July 14, 2010.
-
-The price of ethereum this morning, Monday, October 12, 2026, was 1.2% higher than Sunday's open. Here's a look at how the opening ethereum price has changed versus last week, month, and year:
-
-One week ago: -7.1%
-
-One month ago: +0.8%
-
-One year ago: -32.4%
-
-The all-time high for ethereum was $4,953.73 on Aug. 24, 2025. The all-time low value for ethereum was $0.4209 on Oct. 21, 2015.
-
-Bitcoin, ethereum, and other cryptocurrencies are rapidly evolving. Follow the latest developments from Yahoo Finance and others here .
-
-Bitcoin is a type of cryptocurrency, which is a currency that exists only in digital form and operates without government or banking oversight. By comparison, the U.S. dollar, the EU euro, the Canadian dollar, and other national currencies have paper versions and are issued by their respective governments.
-
-Bitcoin relies on a public digital ledger that validates and records transactions and verifies bitcoin ownership. This ledger is called the blockchain, and it is globally distributed — that is, decentralized — across a broad, worldwide network of servers.
-
-Decentralization is a fundamental aspect of cryptocurrencies. Decentralization facilitates peer-to-peer payments with no banking intermediary, enhanced security, and defense against manipulation attempts.
-
-Learn more: What is Bitcoin, and how does it work?
-
-There are several ways to buy Bitcoin. You can go through a crypto exchange, a fintech app, or a traditional brokerage that will allow you to buy into a bitcoin ETF.
-
-Before placing a trade, though, decide what you actually want: full ownership of your bitcoin and private keys — or easy price exposure inside a familiar, regulated system.
-
-Whichever avenue you take, it's important to remember that bitcoin remains a high-risk, highly volatile asset compared to many other investments. Prices can surge or drop quickly, sometimes without warning. If you're considering buying bitcoin, assume volatility is part of the deal.
-
-Learn more: Is bitcoin's price volatility an investing opportunity? Here's how to buy bitcoin .
-
-Whether you're brand new to tracking the value of bitcoin and ethereum or a more seasoned crypto investor, Yahoo Finance's price-of-bitcoin chart and price-of-ethereum chart below show a visual history of how the currencies' value continues to move and evolve.
-
-More on crypto from the Yahoo Finance team:
-
-How to trade crypto: A step-by-step guide
-
-Do you need a bitcoin credit card ?
-
-Can you buy crypto with a credit card ?
-
-President Trump called for a strategic bitcoin reserve. How it would work .
-
-How to buy a house with crypto
-
-Yes, crypto is taxed. Here's when you have to pay .
-
-How to buy ethereum — and what to know before you do
-
-How to buy solana: A step-by-step guide","Title: Bitcoin and ethereum prices today, Monday, October 12, 2026: How bond yields 'threaten' crypto prices
-Summary: Bitcoin opened at $83,673.01 on Monday, October 12, 2026, up 0.9% from Sunday's opening price. As of 7:25 a.m. ET this morning, bitcoin dipped to $83,280.11. Ethereum opened at $2,534.30, up 1.2% from Sunday's opening price. The price of ethereum moved slightly higher this morning to $2,543.06 as of 7:25 a.m. ET.
-Content: Bitcoin ( BTC-USD ) opened at $83,673.01 on Monday, October 12, 2026 , up 0.9% from Sunday's opening price. As of 7:25 a.m. ET this morning, bitcoin dipped to $83,280.11.
-
-Ethereum ( ETH-USD ) opened at $2,534.30 on Monday, October 12, 2026 , up 1.2% from Sunday's opening price. The price of ethereum moved slightly higher this morning to $2,543.06 as of 7:25 a.m. ET.
-
-Bitcoin and ethereum prices have regained some ground from lower opening prices on Friday, and are generally back in line with where prices opened last Thursday.
-
-The same forces that drove crypto prices lower toward the end of last week are still firmly in play this week, including the ever-growing AI bubble, geopolitical tensions in the Middle East, and Treasury yields hitting historic highs.
-
-Here's more on how bond yields ""threaten"" crypto prices:
-
-US Treasury bonds offer investors regular interest payments backed by the government. When their yields rise, investors can earn higher returns without taking the same risks associated with cryptocurrencies.
-
-Bitcoin pays no fixed interest. As a result, higher Treasury yields can encourage investors to move capital into government bonds or hold cash.
-
-Bitunix argues that this shift in investor preferences is creating additional pressure on Bitcoin and other speculative assets.
-
-The risk extends beyond crypto. Higher yields also increase borrowing costs and can reduce the appeal of technology stocks. Bitunix reported weekly declines in crypto-linked equities, including Strategy and Circle.
-
-Keep reading: Bitcoin's Next Move Depends on the US Bond Market and Inflation Report
-
-Bitcoin's price this morning, Monday, October 12, 2026 , was up 0.9% from Sunday's opening price. Here's a look at how the opening bitcoin price has changed versus last week, month, and year:
-
-One week ago: -3.2%
-
-One month ago: +8.4%
-
-One year ago: -24.5%
-
-The all-time high for bitcoin was $126,198.07 on Oct. 6, 2025. The all-time low value for bitcoin was $0.04865 on July 14, 2010.
-
-The price of ethereum this morning, Monday, October 12, 2026, was 1.2% higher than Sunday's open. Here's a look at how the opening ethereum price has changed versus last week, month, and year:
-
-One week ago: -7.1%
-
-One month ago: +0.8%
-
-One year ago: -32.4%
-
-The all-time high for ethereum was $4,953.73 on Aug. 24, 2025. The all-time low value for ethereum was $0.4209 on Oct. 21, 2015.
-
-Bitcoin, ethereum, and other cryptocurrencies are rapidly evolving. Follow the latest developments from Yahoo Finance and others here .
-
-Bitcoin is a type of cryptocurrency, which is a currency that exists only in digital form and operates without government or banking oversight. By comparison, the U.S. dollar, the EU euro, the Canadian dollar, and other national currencies have paper versions and are issued by their respective governments.
-
-Bitcoin relies on a public digital ledger that validates and records transactions and verifies bitcoin ownership. This ledger is called the blockchain, and it is globally distributed — that is, decentralized — across a broad, worldwide network of servers.
-
-Decentralization is a fundamental aspect of cryptocurrencies. Decentralization facilitates peer-to-peer payments with no banking intermediary, enhanced security, and defense against manipulation attempts.
-
-Learn more: What is Bitcoin, and how does it work?
-
-There are several ways to buy Bitcoin. You can go through a crypto exchange, a fintech app, or a traditional brokerage that will allow you to buy into a bitcoin ETF.
-
-Before placing a trade, though, decide what you actually want: full ownership of your bitcoin and private keys — or easy price exposure inside a familiar, regulated system.
-
-Whichever avenue you take, it's important to remember that bitcoin remains a high-risk, highly volatile asset compared to many other investments. Prices can surge or drop quickly, sometimes without warning. If you're considering buying bitcoin, assume volatility is part of the deal.
-
-Learn more: Is bitcoin's price volatility an investing opportunity? Here's how to buy bitcoin .
-
-Whether you're brand new to tracking the value of bitcoin and ethereum or a more seasoned crypto investor, Yahoo Finance's price-of-bitcoin chart and price-of-ethereum chart below show a visual history of how the currencies' value continues to move and evolve.
-
-More on crypto from the Yahoo Finance team:
-
-How to trade crypto: A step-by-step guide
-
-Do you need a bitcoin credit card ?
-
-Can you buy crypto with a credit card ?
-
-President Trump called for a strategic bitcoin reserve. How it would work .
-
-How to buy a house with crypto
-
-Yes, crypto is taxed. Here's when you have to pay .
-
-How to buy ethereum — and what to know before you do
-
-How to buy solana: A step-by-step guide",summary_and_content
-3,0.61335385,AI Price Prediction: Insights from Grok on Bitcoin’s Potential by Election Day,24/7 Wall St.,2026-10-11 12:12:14+00:00,https://finance.yahoo.com/markets/crypto/articles/ai-price-prediction-insights-grok-121214589.html,"Grok crunched Bitcoin's price structure, fund flows, and midterm election history to land on a specific target for November 3. Whether its forecast holds depends on two price zones every Bitcoin holder should know right now.","Grok forecasts Bitcoin closes around $85,000 on November 3 midterm election day, just above its current $82,940 price.
-
-Grok assigns a 30% chance Bitcoin exceeds $90,000 and a 25% chance it drops below $75,000 by election day.
-
-Election results could swing Bitcoin 7% in either direction within a week, with congressional control influencing key crypto legislation.
-
-Building a portfolio and living off one are two completely different skills, and almost nobody teaches the second. This problem is what The Definitive Guide to Retirement Income helps, and it is free today. Read more here. (Sponsor)
-
-Grok, the AI chatbot developed by xAI, expects that Bitcoin (CRYPTO:BTC) could close around $85,000 on November 3, 2026, the day of the U.S. midterm elections. This forecast is only slightly above Bitcoin's current price of about $82,940, as of October 11.
-
-Bitcoin has dipped 2.7% in the past week but gained 7.4% over the last month. In just two weeks, it hit a high of $87,249 on October 2, then fell to $80,000 on October 8. So, how did Grok arrive at the $85,000 target, and how much weight should Bitcoin holders give it?
-
-Before we asked our question, we gave Grok some relevant data. At the time, Bitcoin was trading at $83,007, roughly a year after it hit an all-time high of $126,080 on October 6, 2025. The lowest point since then was on June 30, when it fell to $57,717.
-
-Since then, Bitcoin has made higher lows, suggesting each pullback has stopped above the last, with buyers stepping in around the mid-$70,000s in September and again at $80,000 on October 8. On that date, exchanges had to close $1.1 billion worth of leveraged positions—trades made with borrowed funds that exchanges close once losses eat through the trader's deposit.
-
-------
-
-Many successful investors eventually reach the same moment. The saving is done, the portfolio is built, and the question quietly changes from how much can I grow this to how much can I take out? Get that second question wrong and decades of good investing can come apart in a handful of years.
-
-That is exactly what The Definitive Guide to Retirement Income helps answer. It covers what your retirement could actually cost, which income sources are worth using, and the withdrawal math that decides whether the money lasts. It is free today from Fisher Investments. Read More Here ›
-
-------
-
-We also shared information about Bitcoin funds. Spot Bitcoin funds, which directly hold Bitcoin for investors who buy shares through brokerage accounts, have a total of $105.8 billion in assets. These funds saw a $731 million outflow on October 7 and 8, but investors added $21 million on October 9.
-
-Finally, we included historical election data, noting that Bitcoin fell about 20% in the month leading up to the 2022 midterms, largely due to the collapse of a major crypto exchange, and dropped about 7% in the four weeks before the 2018 midterms.
-
-Grok believes Bitcoin is consolidating, trading in a relatively narrow range while maintaining its pattern of higher lows. It also considered the short-term holder cost basis—the average price recent buyers paid—which Grok assessed at the low-to-mid $70,000s. This price point matters because traders often watch it, knowing newer buyers might sell if prices fall below what they paid.
-
-According to Grok, the price structure remains positive as long as Bitcoin stays above this support zone. It identified resistance, where selling typically occurs, in the mid-to-high $80,000s. Grok's main scenario suggests a slow upward trend, tempered by caution ahead of the elections and the historical trend of weak fourth quarters during midterm years. However, it noted the uncertainty of this trend, as past cycle bottoms and the 2022 exchange failure complicate the picture.
-
-Volatility is a key reason Grok maintains its close-to-current price forecast. Options traders gauge implied volatility, or expected price movement, using contracts that let them buy or sell in the future at a set price. Grok noted a reading in the mid-30s, signifying a probable swing of around 8% to 9% in the three weeks before the elections.
-
-Grok provided an 80% confidence range for Bitcoin's price on November 3, estimating it between $72,000 and $97,000. The lower end of this range reflects a possible test of short-term holder support, while the upper end suggests a potential breakout above recent highs.
-
-Additionally, Grok assigned a 30% chance of Bitcoin exceeding $90,000 on November 3, and a 25% chance of it dropping below $75,000. This assessment leans slightly to the upside, tempered by election-related uncertainties and recent fund outflows.
-
-We inquired whether the election outcome could influence Bitcoin's price. Grok confirmed it could, expecting a potential price move of about 7% in either direction within a week after the election, depending on how the results align with investor expectations. Control of Congress can also affect key crypto legislation, such as the stalled CLARITY Act. Historically, Bitcoin's price reactions after elections have varied, though it often trends positively over more extended periods.
-
-Grok formulated its forecasts based on the data we provided, without access to live buy and sell orders on exchanges. The model also independently calculated the probabilities rather than reading them from any market.
-
-We consider Grok's $85,000 estimate a reasonable midpoint for this three-week forecast, mainly because volatility metrics suggest limited room for significant movement in either direction. Bitcoin holders should watch two key areas: a close above Grok's resistance in the mid-to-high $80,000s could validate its more optimistic scenarios, while a drop below the low-to-mid $70,000s could bring the $72,000 lower boundary into play.
-
-Monitoring fund flows provides an additional gauge. After the $731 million outflow from Bitcoin funds on October 7 and 8, steady inflows could help support the upward move Grok described. Ultimately, Bitcoin's price on November 3 will put Grok's model to the test.
-
-(Sponsor) Most people spend their entire working lives focusing on one thing: growing a pile of money. Then they retire and discover the skill they actually need is close to the opposite. Turning that pile into steady income, year after year, through good markets and bad, without ever running out.
-
-It may be the least discussed and most consequential transition in personal finance, and plenty of otherwise careful investors walk into it with no real plan. That is exactly what The Definitive Guide to Retirement Income helps answer. It is a free guide from Fisher Investments covering what your retirement will really cost, where the cash flow should come from, and how much you can safely withdraw each year. Learn more here. Learn More Here ›
-
-Contact editorial@247wallst.com for any questions or corrections.","Title: AI Price Prediction: Insights from Grok on Bitcoin’s Potential by Election Day
-Summary: Grok crunched Bitcoin's price structure, fund flows, and midterm election history to land on a specific target for November 3. Whether its forecast holds depends on two price zones every Bitcoin holder should know right now.
-Content: Grok forecasts Bitcoin closes around $85,000 on November 3 midterm election day, just above its current $82,940 price.
-
-Grok assigns a 30% chance Bitcoin exceeds $90,000 and a 25% chance it drops below $75,000 by election day.
-
-Election results could swing Bitcoin 7% in either direction within a week, with congressional control influencing key crypto legislation.
-
-Grok, the AI chatbot developed by xAI, expects that Bitcoin (CRYPTO:BTC) could close around $85,000 on November 3, 2026, the day of the U.S. midterm elections. This forecast is only slightly above Bitcoin's current price of about $82,940, as of October 11.
-
-Bitcoin has dipped 2.7% in the past week but gained 7.4% over the last month. In just two weeks, it hit a high of $87,249 on October 2, then fell to $80,000 on October 8. So, how did Grok arrive at the $85,000 target, and how much weight should Bitcoin holders give it?
-
-Before we asked our question, we gave Grok some relevant data. At the time, Bitcoin was trading at $83,007, roughly a year after it hit an all-time high of $126,080 on October 6, 2025. The lowest point since then was on June 30, when it fell to $57,717.
-
-Since then, Bitcoin has made higher lows, suggesting each pullback has stopped above the last, with buyers stepping in around the mid-$70,000s in September and again at $80,000 on October 8. On that date, exchanges had to close $1.1 billion worth of leveraged positions—trades made with borrowed funds that exchanges close once losses eat through the trader's deposit.
-
-------
-
-Many successful investors eventually reach the same moment. The saving is done, the portfolio is built, and the question quietly changes from how much can I grow this to how much can I take out? Get that second question wrong and decades of good investing can come apart in a handful of years.
-
-That is exactly what The Definitive Guide to Retirement Income helps answer. It covers what your retirement could actually cost, which income sources are worth using, and the withdrawal math that decides whether the money lasts. It is free today from Fisher Investments. Read More Here ›
-
-------
-
-We also shared information about Bitcoin funds. Spot Bitcoin funds, which directly hold Bitcoin for investors who buy shares through brokerage accounts, have a total of $105.8 billion in assets. These funds saw a $731 million outflow on October 7 and 8, but investors added $21 million on October 9.
-
-Finally, we included historical election data, noting that Bitcoin fell about 20% in the month leading up to the 2022 midterms, largely due to the collapse of a major crypto exchange, and dropped about 7% in the four weeks before the 2018 midterms.
-
-Grok believes Bitcoin is consolidating, trading in a relatively narrow range while maintaining its pattern of higher lows. It also considered the short-term holder cost basis—the average price recent buyers paid—which Grok assessed at the low-to-mid $70,000s. This price point matters because traders often watch it, knowing newer buyers might sell if prices fall below what they paid.
-
-According to Grok, the price structure remains positive as long as Bitcoin stays above this support zone. It identified resistance, where selling typically occurs, in the mid-to-high $80,000s. Grok's main scenario suggests a slow upward trend, tempered by caution ahead of the elections and the historical trend of weak fourth quarters during midterm years. However, it noted the uncertainty of this trend, as past cycle bottoms and the 2022 exchange failure complicate the picture.
-
-Volatility is a key reason Grok maintains its close-to-current price forecast. Options traders gauge implied volatility, or expected price movement, using contracts that let them buy or sell in the future at a set price. Grok noted a reading in the mid-30s, signifying a probable swing of around 8% to 9% in the three weeks before the elections.
-
-Grok provided an 80% confidence range for Bitcoin's price on November 3, estimating it between $72,000 and $97,000. The lower end of this range reflects a possible test of short-term holder support, while the upper end suggests a potential breakout above recent highs.
-
-Additionally, Grok assigned a 30% chance of Bitcoin exceeding $90,000 on November 3, and a 25% chance of it dropping below $75,000. This assessment leans slightly to the upside, tempered by election-related uncertainties and recent fund outflows.
-
-We inquired whether the election outcome could influence Bitcoin's price. Grok confirmed it could, expecting a potential price move of about 7% in either direction within a week after the election, depending on how the results align with investor expectations. Control of Congress can also affect key crypto legislation, such as the stalled CLARITY Act. Historically, Bitcoin's price reactions after elections have varied, though it often trends positively over more extended periods.
-
-Grok formulated its forecasts based on the data we provided, without access to live buy and sell orders on exchanges. The model also independently calculated the probabilities rather than reading them from any market.
-
-We consider Grok's $85,000 estimate a reasonable midpoint for this three-week forecast, mainly because volatility metrics suggest limited room for significant movement in either direction. Bitcoin holders should watch two key areas: a close above Grok's resistance in the mid-to-high $80,000s could validate its more optimistic scenarios, while a drop below the low-to-mid $70,000s could bring the $72,000 lower boundary into play.
-
-Monitoring fund flows provides an additional gauge. After the $731 million outflow from Bitcoin funds on October 7 and 8, steady inflows could help support the upward move Grok described. Ultimately, Bitcoin's price on November 3 will put Grok's model to the test.
-
-It may be the least discussed and most consequential transition in personal finance, and plenty of otherwise careful investors walk into it with no real plan. That is exactly what The Definitive Guide to Retirement Income helps answer. It is a free guide from Fisher Investments covering what your retirement will really cost, where the cash flow should come from, and how much you can safely withdraw each year. Learn more here. Learn More Here ›
-
-Contact editorial@247wallst.com for any questions or corrections.",summary_and_content
-4,0.58722067,"Bitcoin struggles above $83,000 a year after $19 billion crypto crash",Investing.com,2026-10-11 05:54:26+00:00,https://finance.yahoo.com/markets/crypto/articles/bitcoin-struggles-above-83-000-055426754.html,"Investing.com -- Bitcoin remained above $83,000 on Sunday, roughly 34% below its record high, as investors marked one year since a historic $19 billion cryptocurrency liquidation event.","Investing.com -- Bitcoin remained above $83,000 on Sunday, roughly 34% below its record high, as investors marked one year since a historic $19 billion cryptocurrency liquidation event.
-
-Before you buy NVIDIA: our AI model's stock picks are beating the market by 120%+. See the list now »
-
-The world's largest cryptocurrency was trading at $83,062.8 as at 01:23 ET (05:23 GMT), having failed to recover its October 6, 2025, peak of $126,080.
-
-The anniversary follows another volatile week in which Bitcoin fell to $80,308 before recovering towards $83,000, highlighting persistent concerns over leveraged trading.
-
-On October 10, 2025, Bitcoin plunged from approximately $122,000 to $105,000 after President Donald Trump announced sweeping tariffs on Chinese imports.
-
-The selloff triggered more than $19 billion in liquidations across cryptocurrency markets, affecting approximately 1.6 million trading accounts.
-
-Analysts warn that the conditions behind the crash remain largely intact, particularly the widespread use of perpetual futures and heavily leveraged positions.
-
-Mark Connors of Risk Dimensions said derivatives positioning continues to influence Bitcoin's short-term price movements, despite improvements in market transparency.
-
-Recent positioning data suggests approximately $3.3 billion in Bitcoin short positions could face liquidation if prices climb towards $85,000, potentially accelerating any recovery.
-
-Institutional demand has also weakened, with US spot Bitcoin exchange-traded funds recording more than $700 million in outflows this week.
-
-Despite the market's struggles, Bitwise Asset Management Chief Investment Officer Matt Hougan remains optimistic about Bitcoin's long-term prospects.
-
-Hougan suggested Bitcoin's market capitalisation could eventually reach $30 trillion, drawing comparisons with gold's expansion following the introduction of exchange-traded funds.
-
-Not finding the right stocks? Our AI's list of investor-grade stock picks for October just dropped »
-
-Such an outcome would represent a substantial increase from Bitcoin's current market value of approximately $1.66 trillion, although the forecast remains speculative.
-
-Corporate adoption continued this week, with Robinhood reportedly adding $25 million in Bitcoin to its balance sheet.
-
-Meanwhile, US government-linked wallets transferred approximately $1 billion in Bitcoin on Thursday, following earlier transfers totalling $770 million. The purpose of the movements remains unclear.
-
-The combination of institutional adoption and persistent leverage risks underscores Bitcoin's competing market forces.
-
-While improved trading data may help investors identify crowded positions, analysts caution that another large-scale liquidation event remains possible.
-
-For now, Bitcoin faces an immediate test around $85,000, with its longer-term recovery dependent on renewed demand and more stable market positioning.
-
-Broader crypto prices were mostly lower early Sunday, based on the latest market snapshot.
-
-World No. 2 cryptocurrency Ether rose 0.40% to $2,508.16.
-
-World No. 3 cryptocurrency XRP fell 1.05% to $1.3961.
-
-Solana declined 0.40% to $109.72, while BNB dropped 0.38% to $748.29.
-
-Cardano retreated 2.29% to $0.2479, while Dogecoin lost 1.28%.
-
-Among meme coins, TRUMP was trading flat for the day, while Shiba Inu fell 1.82%.
-
-Original Article
-
-Bitcoin struggles above $83,000 a year after $19 billion crypto crash
-
-Bitcoin rebounds above $83,000 after weekly slide as oil, yields and security fear
-
-Bitcoin holds ground above $82k, heads for weekly losses amid yield pressure","Title: Bitcoin struggles above $83,000 a year after $19 billion crypto crash
-Summary: Investing.com -- Bitcoin remained above $83,000 on Sunday, roughly 34% below its record high, as investors marked one year since a historic $19 billion cryptocurrency liquidation event.
-Content: Investing.com -- Bitcoin remained above $83,000 on Sunday, roughly 34% below its record high, as investors marked one year since a historic $19 billion cryptocurrency liquidation event.
-
-The world's largest cryptocurrency was trading at $83,062.8 as at 01:23 ET (05:23 GMT), having failed to recover its October 6, 2025, peak of $126,080.
-
-The anniversary follows another volatile week in which Bitcoin fell to $80,308 before recovering towards $83,000, highlighting persistent concerns over leveraged trading.
-
-On October 10, 2025, Bitcoin plunged from approximately $122,000 to $105,000 after President Donald Trump announced sweeping tariffs on Chinese imports.
-
-The selloff triggered more than $19 billion in liquidations across cryptocurrency markets, affecting approximately 1.6 million trading accounts.
-
-Analysts warn that the conditions behind the crash remain largely intact, particularly the widespread use of perpetual futures and heavily leveraged positions.
-
-Mark Connors of Risk Dimensions said derivatives positioning continues to influence Bitcoin's short-term price movements, despite improvements in market transparency.
-
-Recent positioning data suggests approximately $3.3 billion in Bitcoin short positions could face liquidation if prices climb towards $85,000, potentially accelerating any recovery.
-
-Institutional demand has also weakened, with US spot Bitcoin exchange-traded funds recording more than $700 million in outflows this week.
-
-Despite the market's struggles, Bitwise Asset Management Chief Investment Officer Matt Hougan remains optimistic about Bitcoin's long-term prospects.
-
-Hougan suggested Bitcoin's market capitalisation could eventually reach $30 trillion, drawing comparisons with gold's expansion following the introduction of exchange-traded funds.
-
-Not finding the right stocks? Our AI's list of investor-grade stock picks for October just dropped »
-
-Such an outcome would represent a substantial increase from Bitcoin's current market value of approximately $1.66 trillion, although the forecast remains speculative.
-
-Corporate adoption continued this week, with Robinhood reportedly adding $25 million in Bitcoin to its balance sheet.
-
-Meanwhile, US government-linked wallets transferred approximately $1 billion in Bitcoin on Thursday, following earlier transfers totalling $770 million. The purpose of the movements remains unclear.
-
-The combination of institutional adoption and persistent leverage risks underscores Bitcoin's competing market forces.
-
-While improved trading data may help investors identify crowded positions, analysts caution that another large-scale liquidation event remains possible.
-
-For now, Bitcoin faces an immediate test around $85,000, with its longer-term recovery dependent on renewed demand and more stable market positioning.
-
-Broader crypto prices were mostly lower early Sunday, based on the latest market snapshot.
-
-World No. 2 cryptocurrency Ether rose 0.40% to $2,508.16.
-
-World No. 3 cryptocurrency XRP fell 1.05% to $1.3961.
-
-Solana declined 0.40% to $109.72, while BNB dropped 0.38% to $748.29.
-
-Cardano retreated 2.29% to $0.2479, while Dogecoin lost 1.28%.
-
-Among meme coins, TRUMP was trading flat for the day, while Shiba Inu fell 1.82%.
-
-Original Article
-
-Bitcoin struggles above $83,000 a year after $19 billion crypto crash
-
-Bitcoin rebounds above $83,000 after weekly slide as oil, yields and security fear
-
-Bitcoin holds ground above $82k, heads for weekly losses amid yield pressure",summary_and_content
-5,0.58423865,Bitcoin Ranges Near $83K as Traders Look to US Inflation Data,decrypt,2026-10-12 11:41:50+00:00,https://finance.yahoo.com/markets/crypto/articles/bitcoin-ranges-near-83k-traders-114150968.html,"October rate-hike odds have slumped, but analysts say Treasury yields at two-decade highs are still keeping a lid on risk appetite.","Bitcoin inched higher on Monday, trading at $83,327, up 0.6% over the past 24 hours, according to CoinGecko data. The asset is still down 2.9% over the past week.
-
-The cryptocurrency has ""struggled against an increasingly challenging macroeconomic backdrop,"" Daniela Hathorn, senior market analyst at Capital.com, told Decrypt .
-
-""Rising energy prices have reignited inflation concerns, pushing US Treasury yields higher and strengthening the dollar as investors reassess the Federal Reserve's interest-rate trajectory,"" she said. ""Despite its reputation as a potential alternative store of value, recent price action suggests investors continue to treat Bitcoin predominantly as a risk asset rather than a reliable geopolitical hedge.""
-
-Traders see a 19.4% chance of a 25-basis-point hike at the Fed's October 28 meeting, down from 22.1% a week ago and 42.5% a month ago, according to CME FedWatch. Prediction markets Polymarket and Myriad both put the odds of a hike at 17% (Disclaimer: Myriad is a prediction market developed by Decrypt 's parent company Dastan).
-
-A shift in rate expectations should in principle support Bitcoin, Bitfire's Jade Shi said, but elevated long-term Treasury yields mean broader financial conditions have not fully eased. That helps explain why Bitcoin has held up without decisively clearing resistance, she said.
-
-The 10-year Treasury yield stands at 5.24% and the 30-year yield at 5.60%, according to CNBC, having hit 52-week highs of 5.37% and 5.73% last week. Yields reached their highest levels in more than two decades, CoinShares head of research James Butterfill wrote on Thursday.
-
-Butterfill argued that if those yields increasingly reflect concerns about U.S. public finances rather than stronger growth, Bitcoin begins to look ""less like a conventional risk asset and more like an alternative to government-issued money.""
-
-Digital asset fund flows have lost momentum after $11.1 billion of inflows since mid-July, according to CoinShares.
-
-U.S. spot Bitcoin ETFs drew $21.13 million in net inflows on Friday, after outflows of $487.07 million on Wednesday and $244.13 million on Thursday, according to SoSoValue.
-
-Bitcoin, Ethereum and Solana ETFs All in the Red for October
-
-Technically, Bitcoin has been trading mainly between about $80,300 and $87,100, according to Bitfire. A break above $85,600 on stronger volume could open the way toward $87,395, while a drop below $82,000 would raise the risk of a move toward $79,000.
-
-""The recent easing of Middle East tensions has provided some breathing room, but the sustainability of the rebound will depend on whether the improvement in sentiment translates into a more meaningful retreat in bond yields and the dollar,"" Hathorn said. ""Attention now turns towards upcoming US inflation data, which could prove decisive in shaping expectations for the Fed's next move.""","Title: Bitcoin Ranges Near $83K as Traders Look to US Inflation Data
-Summary: October rate-hike odds have slumped, but analysts say Treasury yields at two-decade highs are still keeping a lid on risk appetite.
-Content: Bitcoin inched higher on Monday, trading at $83,327, up 0.6% over the past 24 hours, according to CoinGecko data. The asset is still down 2.9% over the past week.
-
-The cryptocurrency has ""struggled against an increasingly challenging macroeconomic backdrop,"" Daniela Hathorn, senior market analyst at Capital.com, told Decrypt .
-
-""Rising energy prices have reignited inflation concerns, pushing US Treasury yields higher and strengthening the dollar as investors reassess the Federal Reserve's interest-rate trajectory,"" she said. ""Despite its reputation as a potential alternative store of value, recent price action suggests investors continue to treat Bitcoin predominantly as a risk asset rather than a reliable geopolitical hedge.""
-
-Traders see a 19.4% chance of a 25-basis-point hike at the Fed's October 28 meeting, down from 22.1% a week ago and 42.5% a month ago, according to CME FedWatch. Prediction markets Polymarket and Myriad both put the odds of a hike at 17% (Disclaimer: Myriad is a prediction market developed by Decrypt 's parent company Dastan).
-
-A shift in rate expectations should in principle support Bitcoin, Bitfire's Jade Shi said, but elevated long-term Treasury yields mean broader financial conditions have not fully eased. That helps explain why Bitcoin has held up without decisively clearing resistance, she said.
-
-The 10-year Treasury yield stands at 5.24% and the 30-year yield at 5.60%, according to CNBC, having hit 52-week highs of 5.37% and 5.73% last week. Yields reached their highest levels in more than two decades, CoinShares head of research James Butterfill wrote on Thursday.
-
-Butterfill argued that if those yields increasingly reflect concerns about U.S. public finances rather than stronger growth, Bitcoin begins to look ""less like a conventional risk asset and more like an alternative to government-issued money.""
-
-Digital asset fund flows have lost momentum after $11.1 billion of inflows since mid-July, according to CoinShares.
-
-U.S. spot Bitcoin ETFs drew $21.13 million in net inflows on Friday, after outflows of $487.07 million on Wednesday and $244.13 million on Thursday, according to SoSoValue.
-
-Bitcoin, Ethereum and Solana ETFs All in the Red for October
-
-Technically, Bitcoin has been trading mainly between about $80,300 and $87,100, according to Bitfire. A break above $85,600 on stronger volume could open the way toward $87,395, while a drop below $82,000 would raise the risk of a move toward $79,000.
-
-""The recent easing of Middle East tensions has provided some breathing room, but the sustainability of the rebound will depend on whether the improvement in sentiment translates into a more meaningful retreat in bond yields and the dollar,"" Hathorn said. ""Attention now turns towards upcoming US inflation data, which could prove decisive in shaping expectations for the Fed's next move.""",summary_and_content
-6,0.57639694,Bitcoin Tests Average Buyer’s Break-Even As ETF Outflows Clash With Wall Street Buying,Stocktwits,2026-10-10 17:34:25+00:00,https://finance.yahoo.com/markets/crypto/articles/bitcoin-tests-average-buyer-break-173425678.html,"Darkfost said the market was oscillating around the $80,500 line in a pattern resembling late 2025 and early 2026, with the level holding as support for now.","Bitcoin traded almost flat on Saturday, hovering just above $82,900.
-
-CryptoQuant Darkfost analyst described this level as the average holder's break-even point.
-
-On Wall Street, Fidelity's FBTC bought $354.1 million of Bitcoin over 20 trading days while Morgan Stanley added 92 coins this week to reach 10,639 BTC.
-
-Bitcoin (BTC) traded flat on Saturday, sitting just above the price at which the average holder was neither up nor down, as one analyst said the setup looked like a repeat of a pattern from late last year.
-
-That line sat around $80,500, according to CryptoQuant analyst Darkfost. It was the cost basis of all Bitcoin in circulation, weighted by how much money went into each purchase, so when the price hovered there, the market as a whole was roughly breaking even.
+The Fed will announce its rate decision on Wednesday. Traders are pricing a 90.6% chance that it holds rates at 3.75% to 4%, and a 9.4% chance of a hike to 4% to 4.25%, according to CME FedWatch. Investors will also watch for any signs of a hike in December.
 
 See what 10M+ investors are talking about. Get the Stocktwits Daily Rip for what retail is watching right now, free to your inbox
 
-Darkfost said Bitcoin was oscillating around the break-even line in a pattern that resembled late 2025 and early 2026. A market sitting on that line created doubt, he said, which pushed investors to act. For now, it was holding as support.
+Microsoft and Alphabet are set to report earnings on Wednesday, followed by Amazon on Thursday. Meta (META) increased its 2026 capital expenditure forecast to $135 billion-$145 billion, and SpaceX (SPCX) expected $35 billion-$40 billion in fourth-quarter CapEx.
 
-Analyst Ted Pillows was watching slightly higher. A weekly close above $82,700 would mean buyers are in control, he said, and could open a move toward $87,000 to $88,000.
+Heavy spending in AI could propel investors to find growth opportunities and could divert capital into tech stocks and away from Bitcoin. But if worries about AI returns spark a wider selloff, Bitcoin could drop as investors de-risk. In contrast, a tech rebound could boost risk appetite and help BTC.
 
-Bitcoin's price was trading at around $82,900, up by 0.3% at the time of writing. On Stocktwits, the retail sentiment around BTC remained in the 'bearish' zone, while chatter around it stayed at 'low' levels over the past day.
+Michael Van de Poppe, founder of MN Fund, explained that Bitcoin's long-term record made the current dip a buying opportunity. ""Bitcoin's return is annualized 120% since 2011,"" he wrote on X, compared with 6% for gold.
 
-Two of the largest names on Wall Street have kept adding while the price has gone sideways. Fidelity's FBTC fund bought $354.1 million of Bitcoin over the past 20 trading days, according to Arkham. Its other crypto funds bought in the same window, taking in $66.6 million of Ethereum (ETH) and $18.2 million of Solana (SOL). Morgan Stanley (MS) also added about 92 coins this week through its MSBT fund, Arkham data showed, lifting its total to 10,639 BTC worth roughly $880 million.
+He said investors should ""bet big"" on Bitcoin when it was undervalued against gold, and suggested rotating that money back into gold ""in 1-2 years, when Gold is done with its correction."" According to Poppe, Bitcoin was down 7.3% in 2026, and gold was down 7.5%.
 
-Those two funds were buying even as the broader ETF category bled money this week. US spot Bitcoin ETFs lost $487.07 million on Wednesday, and another $244.13 million on Thursday, according to SoSoValue data. A $21.13 million inflow on Friday recovered a fraction of it.
+However, not every analyst shared that view. Ted Pillows said in a post on X that Bitcoin ""looks like it wants to go lower,"" adding that any rally was ""just because of shorts closing rather than spot demand."" He warned that if Bitcoin lost the $80,000 zone on the weekly chart, ""we could see capitulation soon.""
 
-Read also: Fidelity's Global Macro Director Jurrien Timmer Says Bitcoin Has Bottomed And Should Beat Gold Here On
+His comments came as Bitcoin's price traded around $79,930, down 0.8% over the past 24 hours and falling over 3% in the last week. The apex cryptocurrency was trading at around its lowest level since mid-September. The slide followed a combined $773 million in outflows from U.S. spot Bitcoin ETFs last week, as per SoSoValue data.
 
-For updates and corrections, email newsroom[at]stocktwits[dot]com.
+On-chain analysts James Check and Michael Sullivan took up a similar question and asked whether Bitcoin was in ""the fabled disbelief rally…or just another bear market rally.""
 
-Anushka Basu has no position in any of the stocks mentioned in this article. StockTwits' news team content is for informational purposes only and is not intended as investment advice. For more, see our editorial policy . This article was originally published on StockTwits .
-
-Related:
-
-Intel CEO Says DeepSeek, Kimi, GLM Are 'Good Enough' – Reportedly Backs Open Source For Efficiency Gains
-
-SPCX Stock: This Analyst Sees 41% Upside As Starlink Mobile Targets Wireless Market
-
-WULF Stock Gets A 'Buy' From TD Cowen As The AI 'Boom' Overshadows TeraWulf's Bitcoin Mining Roots","Title: Bitcoin Tests Average Buyer’s Break-Even As ETF Outflows Clash With Wall Street Buying
-Summary: Darkfost said the market was oscillating around the $80,500 line in a pattern resembling late 2025 and early 2026, with the level holding as support for now.
-Content: Bitcoin traded almost flat on Saturday, hovering just above $82,900.
-
-CryptoQuant Darkfost analyst described this level as the average holder's break-even point.
-
-On Wall Street, Fidelity's FBTC bought $354.1 million of Bitcoin over 20 trading days while Morgan Stanley added 92 coins this week to reach 10,639 BTC.
-
-Bitcoin (BTC) traded flat on Saturday, sitting just above the price at which the average holder was neither up nor down, as one analyst said the setup looked like a repeat of a pattern from late last year.
-
-That line sat around $80,500, according to CryptoQuant analyst Darkfost. It was the cost basis of all Bitcoin in circulation, weighted by how much money went into each purchase, so when the price hovered there, the market as a whole was roughly breaking even.
-
-Darkfost said Bitcoin was oscillating around the break-even line in a pattern that resembled late 2025 and early 2026. A market sitting on that line created doubt, he said, which pushed investors to act. For now, it was holding as support.
-
-Analyst Ted Pillows was watching slightly higher. A weekly close above $82,700 would mean buyers are in control, he said, and could open a move toward $87,000 to $88,000.
-
-Bitcoin's price was trading at around $82,900, up by 0.3% at the time of writing. On Stocktwits, the retail sentiment around BTC remained in the 'bearish' zone, while chatter around it stayed at 'low' levels over the past day.
-
-Two of the largest names on Wall Street have kept adding while the price has gone sideways. Fidelity's FBTC fund bought $354.1 million of Bitcoin over the past 20 trading days, according to Arkham. Its other crypto funds bought in the same window, taking in $66.6 million of Ethereum (ETH) and $18.2 million of Solana (SOL). Morgan Stanley (MS) also added about 92 coins this week through its MSBT fund, Arkham data showed, lifting its total to 10,639 BTC worth roughly $880 million.
-
-Those two funds were buying even as the broader ETF category bled money this week. US spot Bitcoin ETFs lost $487.07 million on Wednesday, and another $244.13 million on Thursday, according to SoSoValue data. A $21.13 million inflow on Friday recovered a fraction of it.
-
-Read also: Fidelity's Global Macro Director Jurrien Timmer Says Bitcoin Has Bottomed And Should Beat Gold Here On
+Read also: TSLA Stock Rises Overnight: Cybercabs Swarm Austin F1, Fresh Roadster Details Surface — But Analyst Sees 38% Downside
 
 For updates and corrections, email newsroom[at]stocktwits[dot]com.
 
@@ -600,568 +33,1309 @@ Anushka Basu has no position in any of the stocks mentioned in this article. Sto
 
 Related:
 
-Intel CEO Says DeepSeek, Kimi, GLM Are 'Good Enough' – Reportedly Backs Open Source For Efficiency Gains
+RKLB Stock Edges Up Overnight: Neutron's Second Stage Heads To Launch Site — Analyst Eyes Q2 2027 Debut And Shares Doubling
 
-SPCX Stock: This Analyst Sees 41% Upside As Starlink Mobile Targets Wireless Market
+NBIS Stock Rises Overnight: Neocloud Reportedly Raises Nearly $280M For France Data Center
 
-WULF Stock Gets A 'Buy' From TD Cowen As The AI 'Boom' Overshadows TeraWulf's Bitcoin Mining Roots",summary_and_content
-7,0.56596875,"Why Bitcoin Can Fall Before a Fed Rate Hike, Then Rally After It Happens",MoneyLion,2026-10-12 17:00:27+00:00,https://finance.yahoo.com/markets/crypto/articles/why-bitcoin-fall-fed-rate-170027723.html,"Bitcoin fell on rate hike rumors, then rallied after the Fed acted. Learn why markets price the future and how crypto fits into the investment mix.","Wall Street has an old saying: buy the rumor, sell the news. Bitcoin seems to be doing the opposite in 2026. It took a beating this September as traders bet on a Fed rate hike, then rallied once the Fed actually pulled the trigger. Sounds backward, but it makes more sense than it looks.
+Why Did CRWV, IREN, NIO Stocks Slump To 52-Week Lows Today?","Title: Bitcoin Slips Ahead Of Fed Week, Big Tech Earnings: Analysts Divided On Where BTC Is Headed Next
+Summary: Analyst Michaël van de Poppe pointed to BTC’s 120% annualized return since 2011 against 6% for gold.
+Content: Bitcoin slipped below $80,000 on Monday, dipping to around $79,330 in the past day, near its lowest level since mid-September.
 
-The answer lies in how markets price the future and how Bitcoin fits into the investment mix. Rate hikes reshape the competition for investor dollars, and crypto has a complicated relationship with risk. Let's break down the moving parts.
+Analyst Ted Pillows warned that losing the $80,000 zone on the weekly chart could lead to ""capitulation soon.""
 
-Every investor is shopping around. When rates rise, Treasury bonds, savings accounts and CDs start paying more, and a guaranteed yield suddenly looks a lot better than an asset that pays nothing. Bitcoin doesn't generate interest or dividends. Its only payoff is the price going up, which makes it a tougher sell when the alternatives get more generous.
+The Fed decides on rates Wednesday, with Microsoft, Alphabet and Amazon earnings also set to be released this week.
 
-Higher rates also tend to weigh on risk assets like stocks and crypto. Bitcoin was pitched by some as a hedge against market turmoil, but its track record looks more like a traditional risk asset. In a Federal Reserve speech on crypto and financial stability, then-Vice Chair Lael Brainard said crypto assets had shown a high correlation with riskier stocks and overall investor risk appetite.
+Bitcoin's (BTC) price slipped below $80,000 on Monday ahead of the Federal Reserve's rate decision and earnings from Microsoft (MSFT), Alphabet (GOOG), and Amazon (AMZN) this week, with crypto analysts split on where Bitcoin is headed next.
 
-In plain terms, when stocks get jittery over expensive money, Bitcoin usually gets jittery right along with them.
+The Fed will announce its rate decision on Wednesday. Traders are pricing a 90.6% chance that it holds rates at 3.75% to 4%, and a 9.4% chance of a hike to 4% to 4.25%, according to CME FedWatch. Investors will also watch for any signs of a hike in December.
 
-Markets hate uncertainty more than they hate bad news. When rumors started swirling this summer that the Fed might have to hike, risk assets sold off. Bitcoin, being as volatile as it is, took a particularly hard hit.
+Microsoft and Alphabet are set to report earnings on Wednesday, followed by Amazon on Thursday. Meta (META) increased its 2026 capital expenditure forecast to $135 billion-$145 billion, and SpaceX (SPCX) expected $35 billion-$40 billion in fourth-quarter CapEx.
 
-Then the Fed actually moved. On Sept. 16, it raised its target range by a quarter of a percentage point, its first increase in more than three years. Bitcoin didn't collapse. By the next morning, CoinDesk reported that it had climbed modestly above $76,000.
+Heavy spending in AI could propel investors to find growth opportunities and could divert capital into tech stocks and away from Bitcoin. But if worries about AI returns spark a wider selloff, Bitcoin could drop as investors de-risk. In contrast, a tech rebound could boost risk appetite and help BTC.
 
-The explanation is simple. Much of the bad news was already priced in, and the hike wasn't worse than expected. Attention quickly shifted to what the Fed would do next. The Fed's September projections pointed to only limited additional increases, which eased fears of a string of aggressive hikes. Bitcoin responded with a relief rally.
+Michael Van de Poppe, founder of MN Fund, explained that Bitcoin's long-term record made the current dip a buying opportunity. ""Bitcoin's return is annualized 120% since 2011,"" he wrote on X, compared with 6% for gold.
 
-The same logic shows up when you look at a different stretch of the year. In July, some market participants were bracing for a rate hike, then inflation came in cooler than expected. In reaction to this news on July 15, Bitcoin jumped about 3.6%, per CoinDesk .
+He said investors should ""bet big"" on Bitcoin when it was undervalued against gold, and suggested rotating that money back into gold ""in 1-2 years, when Gold is done with its correction."" According to Poppe, Bitcoin was down 7.3% in 2026, and gold was down 7.5%.
 
-The mechanics ran in reverse. When investors think rates are less likely to rise, safe income-producing assets lose some of their pull, and riskier assets like Bitcoin get breathing room.
+However, not every analyst shared that view. Ted Pillows said in a post on X that Bitcoin ""looks like it wants to go lower,"" adding that any rally was ""just because of shorts closing rather than spot demand."" He warned that if Bitcoin lost the $80,000 zone on the weekly chart, ""we could see capitulation soon.""
 
-Rate expectations are a major driver, but not the only one. Supply and demand, geopolitical events, ETF flows, regulation and crypto-specific news all shape the price. And often, what traders expect matters more than what actually happens.
+His comments came as Bitcoin's price traded around $79,930, down 0.8% over the past 24 hours and falling over 3% in the last week. The apex cryptocurrency was trading at around its lowest level since mid-September. The slide followed a combined $773 million in outflows from U.S. spot Bitcoin ETFs last week, as per SoSoValue data.
 
-Bitcoin's reaction to Fed policy is a useful reminder that prices move on expectations long before the official announcement. If you're watching the Fed to time your crypto moves, you're not alone, but you're competing with a lot of people who are doing the same thing. Before you bet on the next rate decision, make sure your position still makes sense if the Fed does the opposite of what you expect.
+On-chain analysts James Check and Michael Sullivan took up a similar question and asked whether Bitcoin was in ""the fabled disbelief rally…or just another bear market rally.""
 
-This article was provided by MoneyLion.com for informational purposes only and should not be construed as financial, legal or tax advice.
+Read also: TSLA Stock Rises Overnight: Cybercabs Swarm Austin F1, Fresh Roadster Details Surface — But Analyst Sees 38% Downside
 
-More From MoneyLion:
+For updates and corrections, email newsroom[at]stocktwits[dot]com.
 
-Get a Free Gold IRA Guide From Forbes' Most Trusted Gold Company, Plus Up to $25K in Bonus Silver
+Anushka Basu has no position in any of the stocks mentioned in this article. StockTwits' news team content is for informational purposes only and is not intended as investment advice. For more, see our editorial policy . This article was originally published on StockTwits .
 
-Looking to Buy Investment Properties? These Loans Offer Fast Funding
+Related:
 
-Get Life Insurance In As Little As 10 Minutes
+RKLB Stock Edges Up Overnight: Neutron's Second Stage Heads To Launch Site — Analyst Eyes Q2 2027 Debut And Shares Doubling
 
-Cash In Your Unused Gold at Today's Top Prices","Title: Why Bitcoin Can Fall Before a Fed Rate Hike, Then Rally After It Happens
-Summary: Bitcoin fell on rate hike rumors, then rallied after the Fed acted. Learn why markets price the future and how crypto fits into the investment mix.
-Content: Wall Street has an old saying: buy the rumor, sell the news. Bitcoin seems to be doing the opposite in 2026. It took a beating this September as traders bet on a Fed rate hike, then rallied once the Fed actually pulled the trigger. Sounds backward, but it makes more sense than it looks.
+NBIS Stock Rises Overnight: Neocloud Reportedly Raises Nearly $280M For France Data Center
 
-The answer lies in how markets price the future and how Bitcoin fits into the investment mix. Rate hikes reshape the competition for investor dollars, and crypto has a complicated relationship with risk. Let's break down the moving parts.
+Why Did CRWV, IREN, NIO Stocks Slump To 52-Week Lows Today?",summary_and_content
+2,0.6198713,Bitcoin On Track To Post Weakest October In Six Years As US Buyers Retreat Ahead Of Fed Decision,Stocktwits,2026-10-28 09:22:33+00:00,https://finance.yahoo.com/markets/crypto/articles/bitcoin-track-post-weakest-october-092233148.html,"Inflation risks could complicate the outlook for Bitcoin, with crude oil above $100 a barrel since early October, the Federal Reserve's rate decision, and the Nov. 3 U.S. midterm elections as potential macro factors.","Bitcoin traded around $80,800 on Wednesday, down over 4% in October, putting the cryptocurrency on track for its weakest October in six years.
 
-Every investor is shopping around. When rates rise, Treasury bonds, savings accounts and CDs start paying more, and a guaranteed yield suddenly looks a lot better than an asset that pays nothing. Bitcoin doesn't generate interest or dividends. Its only payoff is the price going up, which makes it a tougher sell when the alternatives get more generous.
+Bitcoin spot demand has also remained negative since Oct. 14, while short-term holders' profit buffer narrowed.
 
-Higher rates also tend to weigh on risk assets like stocks and crypto. Bitcoin was pitched by some as a hedge against market turmoil, but its track record looks more like a traditional risk asset. In a Federal Reserve speech on crypto and financial stability, then-Vice Chair Lael Brainard said crypto assets had shown a high correlation with riskier stocks and overall investor risk appetite.
+CryptoQuant's Bull Score Index fell from 90 to 60, meaning that a bullish phase remains but is currently cooling.
 
-In plain terms, when stocks get jittery over expensive money, Bitcoin usually gets jittery right along with them.
+Bitcoin (BTC) is bracing for its weakest October in six years as U.S. investors retreat from the market ahead of the Federal Reserve's rate decision later on Wednesday.
 
-Markets hate uncertainty more than they hate bad news. When rumors started swirling this summer that the Fed might have to hike, risk assets sold off. Bitcoin, being as volatile as it is, took a particularly hard hit.
+The cryptocurrency traded around $80,800 on Wednesday morning. It was down 4.2% for the month. Bitcoin closed September at $83,567 and fell to $80,051 by Oct. 28. That's up from an average October gain of 18.1% since 2020. Bitcoin also lost 3.8% in October 2025. Another drop will make it the weakest October in six years.
 
-Then the Fed actually moved. On Sept. 16, it raised its target range by a quarter of a percentage point, its first increase in more than three years. Bitcoin didn't collapse. By the next morning, CoinDesk reported that it had climbed modestly above $76,000.
+See what 10M+ investors are talking about. Get the Stocktwits Daily Rip for what retail is watching right now, free to your inbox
 
-The explanation is simple. Much of the bad news was already priced in, and the hike wasn't worse than expected. Attention quickly shifted to what the Fed would do next. The Fed's September projections pointed to only limited additional increases, which eased fears of a string of aggressive hikes. Bitcoin responded with a relief rally.
+Coinbase Premium has not had a positive day this October, CryptoQuant said in a post on X Tuesday. The index measures the price difference between Bitcoin on Coinbase and offshore exchanges. A negative reading means U.S. buyers are paying less than buyers abroad, a sign of soft demand.
 
-The same logic shows up when you look at a different stretch of the year. In July, some market participants were bracing for a rate hike, then inflation came in cooler than expected. In reaction to this news on July 15, Bitcoin jumped about 3.6%, per CoinDesk .
+The premium dropped to -0.146 on Oct. 24, the lowest since June 30, the firm said in a report on Tuesday. Its October average of -0.093 is three times that of September. Spot demand overall has also been negative every day since Oct. 14, the report said. New buyers are taking in coins slower than miners are creating them.
 
-The mechanics ran in reverse. When investors think rates are less likely to rise, safe income-producing assets lose some of their pull, and riskier assets like Bitcoin get breathing room.
+CryptoQuant said short-term traders have lost most of the buffer. Bitcoin traded 8.1% above the realized price on Oct. 26. That metric measures the average price of coins that have been held between one and three months, and stands at $74,041. The gap was 33.4% on Sept. 22.
 
-Rate expectations are a major driver, but not the only one. Supply and demand, geopolitical events, ETF flows, regulation and crypto-specific news all shape the price. And often, what traders expect matters more than what actually happens.
+CryptoQuant's Bull Score Index, which aggregates 10 market indicators, has fallen from 90 to 60. The firm said that still indicates a bullish but cooling phase. A reading of 50 or less would mean a regime change. CryptoQuant has set support between $73,000 and $77,600. According to the on-chain firm, the Fed decision and the Nov. 3 midterms are the two tests ahead that are to decide the apex currency's next move.
 
-Bitcoin's reaction to Fed policy is a useful reminder that prices move on expectations long before the official announcement. If you're watching the Fed to time your crypto moves, you're not alone, but you're competing with a lot of people who are doing the same thing. Before you bet on the next rate decision, make sure your position still makes sense if the Fed does the opposite of what you expect.
+The macro backdrop offers little respite. Energy-driven inflation could keep policy tight longer, as markets expect the Fed to hold rates, Bitunix analysts said. One analyst cited a Reuters survey in which economists raised inflation forecasts for 31 of 50 economies for 2027. Crude oil has been above $100 a barrel since early October, analysts said. The firm added that a hawkish signal from Fed Chair Kevin Warsh could force bullish bond bets to unwind.
 
-This article was provided by MoneyLion.com for informational purposes only and should not be construed as financial, legal or tax advice.
+Bitcoin's price was trading around $81,400, up over 1% in the last 24 hours. On Stocktwits, retail sentiment remained in the 'bearish' zone, accompanied by 'normal' chatter levels over the past day.
 
-More From MoneyLion:
+Read also: SKHY Stock Jumps Premarket: Strategist Says SK Hynix Sits At AI's 'Toll Booth' As Tech Giants Chase Scarce Memory
 
-Get a Free Gold IRA Guide From Forbes' Most Trusted Gold Company, Plus Up to $25K in Bonus Silver
+For updates and corrections, email newsroom[at]stocktwits[dot]com.
 
-Looking to Buy Investment Properties? These Loans Offer Fast Funding
+Anushka Basu has no position in any of the stocks mentioned in this article. StockTwits' news team content is for informational purposes only and is not intended as investment advice. For more, see our editorial policy . This article was originally published on StockTwits .
 
-Get Life Insurance In As Little As 10 Minutes
+Related:
 
-Cash In Your Unused Gold at Today's Top Prices",summary_and_content
-8,0.5629065,"Bitcoin’s Price Prediction: Will Global M2 Point to $300,000?",24/7 Wall St.,2026-10-11 15:00:21+00:00,https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-prediction-global-m2-150021469.html,"A chart circulating in crypto circles claims global money supply points to Bitcoin hitting $250,000 to $300,000, and prominent voices are taking it seriously. But the math behind it hides a flaw that lets anyone bend the prediction to fit whatever outcome they want.","Bitcoin trades at $82,965, down 5.3% in 2026, yet a viral global M2 chart predicts prices between $250,000 and $300,000.
+Why Did ETSY, REPL, GMAB Stocks Surge To 52-Week Highs Today?
 
-The chart's time-lag is chosen subjectively using past data, making it appear accurate in hindsight while offering no genuine predictive power.
+RKLB Stock Eyes Best Week In A Month: Neutron, Electron And NASA Updates Stack Up — Why Is Retail Still On The Fence?
 
-Bill Barhydt cited a speaker's claim that Bitcoin must reach $300,000 within 24 months, which stands as the article's only concrete, testable prediction.
+SLS Stock's Big AML Trial Milestone Sparks A Selloff — What's Fueling Retail's 'Extremely Bullish' Bets?","Title: Bitcoin On Track To Post Weakest October In Six Years As US Buyers Retreat Ahead Of Fed Decision
+Summary: Inflation risks could complicate the outlook for Bitcoin, with crude oil above $100 a barrel since early October, the Federal Reserve's rate decision, and the Nov. 3 U.S. midterm elections as potential macro factors.
+Content: Bitcoin traded around $80,800 on Wednesday, down over 4% in October, putting the cryptocurrency on track for its weakest October in six years.
 
-Building a portfolio and living off one are two completely different skills, and almost nobody teaches the second. This problem is what The Definitive Guide to Retirement Income helps, and it is free today. Read more here. (Sponsor)
+Bitcoin spot demand has also remained negative since Oct. 14, while short-term holders' profit buffer narrowed.
 
-Bitcoin (CRYPTO: BTC) is trading at $82,965 as of October 11, 2026, down 5.3% so far this year. Yet, a frequently shared global M2 Bitcoin chart circulating in crypto discussions posits a much higher potential price.
+CryptoQuant's Bull Score Index fell from 90 to 60, meaning that a bullish phase remains but is currently cooling.
 
-Bill Barhydt, CEO of the crypto firm Abra, recently referenced this chart on The Pomp Podcast . He stated, ""If you look at the charts that everybody likes to show with global M2 versus Bitcoin, they're all saying Bitcoin should be around 250 to 300k-ish in that range,"" in an episode aired on October 8.
+Bitcoin (BTC) is bracing for its weakest October in six years as U.S. investors retreat from the market ahead of the Federal Reserve's rate decision later on Wednesday.
 
-Many who share this chart may not fully understand what it measures or how it was constructed. So, can the amount of money in the world really indicate where Bitcoin's price is headed?
+The cryptocurrency traded around $80,800 on Wednesday morning. It was down 4.2% for the month. Bitcoin closed September at $83,567 and fell to $80,051 by Oct. 28. That's up from an average October gain of 18.1% since 2020. Bitcoin also lost 3.8% in October 2025. Another drop will make it the weakest October in six years.
 
-M2 measures how much money exists in an economy, including cash, checking accounts, and easily accessible savings like money market funds. The global M2 aggregates these figures across major economies, providing a rough estimate of the total money available worldwide.
+Coinbase Premium has not had a positive day this October, CryptoQuant said in a post on X Tuesday. The index measures the price difference between Bitcoin on Coinbase and offshore exchanges. A negative reading means U.S. buyers are paying less than buyers abroad, a sign of soft demand.
 
-The chart that often gets shared compares this global total with Bitcoin's price. Most versions of the chart adjust the money supply line forward by a certain number of weeks, based on the belief that newly created money takes time to flow through banks and markets before reaching riskier assets like cryptocurrencies.
+The premium dropped to -0.146 on Oct. 24, the lowest since June 30, the firm said in a report on Tuesday. Its October average of -0.093 is three times that of September. Spot demand overall has also been negative every day since Oct. 14, the report said. New buyers are taking in coins slower than miners are creating them.
 
-------
+CryptoQuant said short-term traders have lost most of the buffer. Bitcoin traded 8.1% above the realized price on Oct. 26. That metric measures the average price of coins that have been held between one and three months, and stands at $74,041. The gap was 33.4% on Sept. 22.
 
-Many successful investors eventually reach the same moment. The saving is done, the portfolio is built, and the question quietly changes from how much can I grow this to how much can I take out? Get that second question wrong and decades of good investing can come apart in a handful of years.
+CryptoQuant's Bull Score Index, which aggregates 10 market indicators, has fallen from 90 to 60. The firm said that still indicates a bullish but cooling phase. A reading of 50 or less would mean a regime change. CryptoQuant has set support between $73,000 and $77,600. According to the on-chain firm, the Fed decision and the Nov. 3 midterms are the two tests ahead that are to decide the apex currency's next move.
 
-That is exactly what The Definitive Guide to Retirement Income helps answer. It covers what your retirement could actually cost, which income sources are worth using, and the withdrawal math that decides whether the money lasts. It is free today from Fisher Investments. Read More Here ›
+The macro backdrop offers little respite. Energy-driven inflation could keep policy tight longer, as markets expect the Fed to hold rates, Bitunix analysts said. One analyst cited a Reuters survey in which economists raised inflation forecasts for 31 of 50 economies for 2027. Crude oil has been above $100 a barrel since early October, analysts said. The firm added that a hawkish signal from Fed Chair Kevin Warsh could force bullish bond bets to unwind.
 
-------
+Bitcoin's price was trading around $81,400, up over 1% in the last 24 hours. On Stocktwits, retail sentiment remained in the 'bearish' zone, accompanied by 'normal' chatter levels over the past day.
 
-This approach has its charm. Bitcoin has a capped supply, meaning if the money supply—dollars, euros, and yuan—keeps rising while Bitcoin's supply remains fixed, each coin should, theoretically, become more valuable. Simon Dixon echoed this view on The Pomp Podcast , commending Bitcoin for having ""a monetary policy which you can rely upon with a fixed supply.""
+Read also: SKHY Stock Jumps Premarket: Strategist Says SK Hynix Sits At AI's 'Toll Booth' As Tech Giants Chase Scarce Memory
 
-However, choosing the money supply line is subjective. Changing the number of weeks in the shift alters the chart's suggested ""fair"" price for Bitcoin, so the prediction can change whenever the creator adjusts the timeframe.
+For updates and corrections, email newsroom[at]stocktwits[dot]com.
 
-First, while some correlations may hold, they don't explain why this new money is flowing into Bitcoin rather than other assets like stocks or gold. For instance, U.S. M2, a significant portion of the global total, hit a new peak in August, yet Bitcoin is down 5.3% this year.
+Anushka Basu has no position in any of the stocks mentioned in this article. StockTwits' news team content is for informational purposes only and is not intended as investment advice. For more, see our editorial policy . This article was originally published on StockTwits .
 
-Jordi Visser offered one perspective on this potential connection on September 19's episode of The Pomp Podcast . He suggested Bitcoin often trades on liquidity, since its real-world use hasn't fully emerged yet. If true, the connection between money supply and Bitcoin's price might weaken as other factors take over.
+Related:
 
-Second, chart creators often select the forward shift after analyzing past data. They can test different time lags against historical prices and choose the one that aligns best, making the chart look accurate in hindsight while offering little insight into future movements.
+Why Did ETSY, REPL, GMAB Stocks Surge To 52-Week Highs Today?
 
-Most critically, this overlay creates a price target that lacks a set timeline. This makes it unfalsifiable; no outcome can definitively prove it wrong since proponents can always argue that the price hasn't reached the predicted level yet.
+RKLB Stock Eyes Best Week In A Month: Neutron, Electron And NASA Updates Stack Up — Why Is Retail Still On The Fence?
 
-To his credit, Barhydt didn't claim any specificity in his prediction. He said this price range ""feels right to me based upon where the markets are going,"" indicating judgment rather than a precise calculation.
+SLS Stock's Big AML Trial Milestone Sparks A Selloff — What's Fueling Retail's 'Extremely Bullish' Bets?",summary_and_content
+3,0.60259825,"Crypto Market Today, Oct. 28: Bitcoin and Altcoins Gain as Fed Decision Clears the Way for Big Tech Earnings",Motley Fool,2026-10-28 21:30:01+00:00,https://finance.yahoo.com/markets/crypto/articles/crypto-market-today-oct-28-213001372.html,"Bitcoin extended its recovery above $81,000 as the Fed held interest rates steady, with investors now turning their attention to major Big Tech earnings that could shape the market's next move.","As of early evening on Oct. 28, Bitcoin (CRYPTO:BTC) rose 0.52% to $81,220.35, Ethereum (CRYPTO:ETH) rose 0.68% to $2,363.24, and Solana (CRYPTO:SOL) rose 1.33% to $102.60.
 
-He also quoted a speaker from a treasury conference, without claiming the view as his own: ""if bitcoin's not at 300k in 24 months, then my thesis on Bitcoin was completely wrong."" This statement is testable because it provides a specific timeframe for evaluation.
+Bitcoin and the broader cryptocurrency market posted back-to-back gains despite a busy week of economic developments.
 
-However, those promoting the chart in this discussion have not published a track record, making it hard for readers to gauge how often their predictions align with reality. Treat any claims about its accuracy with skepticism unless the authors present both successful predictions and misses.
+Most notably, the Federal Reserve held its benchmark interest rate steady at 3.75% to 4%, in line with market expectations. However, the central bank acknowledged that inflation remains elevated, leaving the possibility of future rate hikes on the table.
 
-While money supply illustrates the liquidity around Bitcoin, it doesn't provide a clear price forecast. An increasing money supply can lift risky assets, but the global M2 chart lets its creator dictate the lag and set a price target without a deadline. It also fails to outline the path from $82,965 to $300,000, which would require new capital to flow into Bitcoin rather than stocks or gold within a specified timeframe.
+Investors will now turn their attention to a wave of corporate earnings. Alphabet (NASDAQ:GOOGL) (NASDAQ:GOOG), Microsoft (NASDAQ:MSFT) , and ServiceNow (NYSE:NOW) are scheduled to report after Wednesday's market close. Any disappointing results, particularly from these major technology companies, could weigh on broader market sentiment and put pressure on crypto's recent gains.
 
-The dated 24-month claim presents the clearest opportunity for evaluation. Readers can assess Bitcoin's price 24 months following Barhydt's October 8 episode. If it hasn't touched $300,000 by that time, the conference speaker has already said the thesis was wrong. Furthermore, if the chart's forward shift subtly changes after a mismatch occurs, it's likely being adjusted post-hoc to fit Bitcoin's price.
+Fortunately, Spot crypto ETFs traded firmer over the last few days. The iShares Bitcoin Trust ETF (NASDAQ:IBIT) up 0.96%, Fidelity Wise Origin Bitcoin Fund (NYSEMKT:FBTC) up 1.01%, and iShares Ethereum Trust ETF (NASDAQ:ETHA) up 1.07%.
 
-(Sponsor) Most people spend their entire working lives focusing on one thing: growing a pile of money. Then they retire and discover the skill they actually need is close to the opposite. Turning that pile into steady income, year after year, through good markets and bad, without ever running out.
+The next development to watch is whether these price gains translate into renewed investor demand. A return to sustained ETF inflows would provide a more convincing sign that the market is stabilizing.
 
-It may be the least discussed and most consequential transition in personal finance, and plenty of otherwise careful investors walk into it with no real plan. That is exactly what The Definitive Guide to Retirement Income helps answer. It is a free guide from Fisher Investments covering what your retirement will really cost, where the cash flow should come from, and how much you can safely withdraw each year. Learn more here. Learn More Here ›
+With the Federal Reserve's decision in the rearview, attention now shifts toward corporate earnings and what they reveal about the broader economy.
 
-Contact editorial@247wallst.com for any questions or corrections.","Title: Bitcoin’s Price Prediction: Will Global M2 Point to $300,000?
-Summary: A chart circulating in crypto circles claims global money supply points to Bitcoin hitting $250,000 to $300,000, and prominent voices are taking it seriously. But the math behind it hides a flaw that lets anyone bend the prediction to fit whatever outcome they want.
-Content: Bitcoin trades at $82,965, down 5.3% in 2026, yet a viral global M2 chart predicts prices between $250,000 and $300,000.
+This week's reports from major technology companies should provide valuable insight into consumer and business spending, corporate profitability, and the AI infrastructure boom that has helped drive much of the market's recent growth. Amazon (NASDAQ: AMZN) and Intel (NASDAQ: INTC) are slated to report Thursday after the closing bell.
 
-The chart's time-lag is chosen subjectively using past data, making it appear accurate in hindsight while offering no genuine predictive power.
+For crypto investors, the next move may depend as much on these broader market developments as on events within the digital asset industry itself.
 
-Bill Barhydt cited a speaker's claim that Bitcoin must reach $300,000 within 24 months, which stands as the article's only concrete, testable prediction.
+Encouragingly, several major cryptocurrencies remain above their summer lows despite the recent correction. However, the recovery is far from convincing, and disappointing earnings or renewed inflation concerns could quickly put sellers back in control.
 
-Bitcoin (CRYPTO: BTC) is trading at $82,965 as of October 11, 2026, down 5.3% so far this year. Yet, a frequently shared global M2 Bitcoin chart circulating in crypto discussions posits a much higher potential price.
+#
 
-Bill Barhydt, CEO of the crypto firm Abra, recently referenced this chart on The Pomp Podcast . He stated, ""If you look at the charts that everybody likes to show with global M2 versus Bitcoin, they're all saying Bitcoin should be around 250 to 300k-ish in that range,"" in an episode aired on October 8.
+Name
 
-Many who share this chart may not fully understand what it measures or how it was constructed. So, can the amount of money in the world really indicate where Bitcoin's price is headed?
+Price
 
-M2 measures how much money exists in an economy, including cash, checking accounts, and easily accessible savings like money market funds. The global M2 aggregates these figures across major economies, providing a rough estimate of the total money available worldwide.
+24h
 
-The chart that often gets shared compares this global total with Bitcoin's price. Most versions of the chart adjust the money supply line forward by a certain number of weeks, based on the belief that newly created money takes time to flow through banks and markets before reaching riskier assets like cryptocurrencies.
-
-------
-
-Many successful investors eventually reach the same moment. The saving is done, the portfolio is built, and the question quietly changes from how much can I grow this to how much can I take out? Get that second question wrong and decades of good investing can come apart in a handful of years.
-
-That is exactly what The Definitive Guide to Retirement Income helps answer. It covers what your retirement could actually cost, which income sources are worth using, and the withdrawal math that decides whether the money lasts. It is free today from Fisher Investments. Read More Here ›
-
-------
-
-This approach has its charm. Bitcoin has a capped supply, meaning if the money supply—dollars, euros, and yuan—keeps rising while Bitcoin's supply remains fixed, each coin should, theoretically, become more valuable. Simon Dixon echoed this view on The Pomp Podcast , commending Bitcoin for having ""a monetary policy which you can rely upon with a fixed supply.""
-
-However, choosing the money supply line is subjective. Changing the number of weeks in the shift alters the chart's suggested ""fair"" price for Bitcoin, so the prediction can change whenever the creator adjusts the timeframe.
-
-First, while some correlations may hold, they don't explain why this new money is flowing into Bitcoin rather than other assets like stocks or gold. For instance, U.S. M2, a significant portion of the global total, hit a new peak in August, yet Bitcoin is down 5.3% this year.
-
-Jordi Visser offered one perspective on this potential connection on September 19's episode of The Pomp Podcast . He suggested Bitcoin often trades on liquidity, since its real-world use hasn't fully emerged yet. If true, the connection between money supply and Bitcoin's price might weaken as other factors take over.
-
-Second, chart creators often select the forward shift after analyzing past data. They can test different time lags against historical prices and choose the one that aligns best, making the chart look accurate in hindsight while offering little insight into future movements.
-
-Most critically, this overlay creates a price target that lacks a set timeline. This makes it unfalsifiable; no outcome can definitively prove it wrong since proponents can always argue that the price hasn't reached the predicted level yet.
-
-To his credit, Barhydt didn't claim any specificity in his prediction. He said this price range ""feels right to me based upon where the markets are going,"" indicating judgment rather than a precise calculation.
-
-He also quoted a speaker from a treasury conference, without claiming the view as his own: ""if bitcoin's not at 300k in 24 months, then my thesis on Bitcoin was completely wrong."" This statement is testable because it provides a specific timeframe for evaluation.
-
-However, those promoting the chart in this discussion have not published a track record, making it hard for readers to gauge how often their predictions align with reality. Treat any claims about its accuracy with skepticism unless the authors present both successful predictions and misses.
-
-While money supply illustrates the liquidity around Bitcoin, it doesn't provide a clear price forecast. An increasing money supply can lift risky assets, but the global M2 chart lets its creator dictate the lag and set a price target without a deadline. It also fails to outline the path from $82,965 to $300,000, which would require new capital to flow into Bitcoin rather than stocks or gold within a specified timeframe.
-
-The dated 24-month claim presents the clearest opportunity for evaluation. Readers can assess Bitcoin's price 24 months following Barhydt's October 8 episode. If it hasn't touched $300,000 by that time, the conference speaker has already said the thesis was wrong. Furthermore, if the chart's forward shift subtly changes after a mismatch occurs, it's likely being adjusted post-hoc to fit Bitcoin's price.
-
-It may be the least discussed and most consequential transition in personal finance, and plenty of otherwise careful investors walk into it with no real plan. That is exactly what The Definitive Guide to Retirement Income helps answer. It is a free guide from Fisher Investments covering what your retirement will really cost, where the cash flow should come from, and how much you can safely withdraw each year. Learn more here. Learn More Here ›
-
-Contact editorial@247wallst.com for any questions or corrections.",summary_and_content
-9,0.5565646,"Bitcoin Dips to $80,000: How Other Coins Fared in the Market Slide",24/7 Wall St.,2026-10-10 10:00:32+00:00,https://finance.yahoo.com/markets/crypto/articles/bitcoin-dips-80-000-other-100032807.html,"When Bitcoin tumbled to $80,000 and dragged most of the crypto market down with it, two smaller coins barely budged. Whether that signals genuine strength or something far less exciting depends on answers the price data alone cannot provide.","Bitcoin dropped 3.6% for the week to $83,247, while 13 of 16 major coins fell harder, with Stellar sliding 13.5%.
-
-NEAR Protocol surged 91.7% over the prior month, which may explain its near-flat weekly loss of just 0.3% during the selloff.
-
-Bitcoin ETFs shed $244 million in a single day yet BTC outperformed XRP, which gained $8.2 million in fund inflows but still fell 9%.
-
-Building a portfolio and living off one are two completely different skills, and almost nobody teaches the second. This problem is what The Definitive Guide to Retirement Income helps, and it is free today. Read more here. (Sponsor)
-
-Bitcoin (CRYPTO: BTC) fell to $80,000, leading to a significant decline in the cryptocurrency market on October 8, 2026. Of the 15 major coins tracked, 13 fell more than Bitcoin. However, NEAR Protocol (CRYPTO: NEAR) and Monero (CRYPTO: XMR) stood out, falling only 0.3% and 1.3%, respectively.
-
-By October 9, Bitcoin had bounced back slightly to $83,247, down 3.6% over the week. This raises the question: did NEAR and Monero show real strength during this crypto selloff, or did their stable prices reflect lower trading activity?
-
-Here's how major coins ranked based on their seven-day price changes as of October 9, listed from smallest drop to largest:
-
-Rank
-
-Coin
-
-Seven-Day Drop
+7d
 
 1
 
-NEAR Protocol
+Bitcoin (BTC)
 
-0.3%
+$81,220.35
+
++0.5%
+
+-3.4%
 
 2
 
-Monero
+Ethereum (ETH)
 
-1.3%
+$2,363.24
+
++0.7%
+
+-5.1%
 
 3
 
-Bitcoin
+Tether (USDT)
 
-3.6%
+$0.9993
+
++0.1%
+
+-0.0%
 
 4
 
-Hyperliquid (CRYPTO: HYPE)
+BNB (BNB)
 
-5.3%
+$754.47
+
++0.9%
+
++0.8%
 
 5
 
-Cardano (CRYPTO: ADA)
+XRP (XRP)
 
-6.4%
+$1.33
+
++0.6%
+
+-3.8%
 
 6
 
-Avalanche (CRYPTO: AVAX)
+USDC (USDC)
 
-6.6%
+$0.9995
+
++0.0%
+
+-0.0%
 
 7
 
-Litecoin (CRYPTO: LTC)
+Solana (SOL)
 
-8.0%
+$102.60
+
++1.3%
+
+-4.8%
 
 8
 
-Ethereum (CRYPTO: ETH)
+TRON (TRX)
 
-8.8%
+$0.3294
+
+-0.2%
+
+-0.8%
 
 9
 
-Solana (CRYPTO: SOL)
+Figure Heloc (FIGR_HELOC)
 
-8.9%
+$1.03
+
++1.4%
+
++2.6%
 
 10
 
-XRP (CRYPTO: XRP)
+Zcash (ZEC)
 
-9.0%
+$1,298.52
 
-11
+-0.0%
 
-Sui (CRYPTO: SUI)
+-3.3%
 
-9.1%
+Ranked by market cap. Price and 24-hour change for BTC, ETH and SOL: FMP, the same figures used in the text above. All other figures: CoinGecko, as of October 28, 2026 20:17 UTC.
 
-12
+Before you buy stock in Bitcoin, consider this:
 
-Chainlink (CRYPTO: LINK)
+The Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and Bitcoin wasn't one of them. The 10 stocks that made the cut could produce monster returns in the coming years.
 
-10.4%
+Consider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, you'd have $337,166 !* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you'd have $1,339,143 !*
 
-13
+Now, it's worth noting Stock Advisor's total average return is 904% — a market-crushing outperformance compared to 213% for the S&P 500. Don't miss the latest top 10 list, available with Stock Advisor , and join an investing community built by individual investors for individual investors.
 
-Zcash (CRYPTO: ZEC)
+See the 10 stocks »
 
-10.8%
+*Stock Advisor returns as of October 28, 2026.
 
-14
+RJ Fulton has positions in Bitcoin, Ethereum, Solana, and iShares Bitcoin Trust. The Motley Fool has positions in and recommends Alphabet, Bitcoin, Ethereum, Intel, Microsoft, ServiceNow, Solana, and iShares Bitcoin Trust. The Motley Fool has a disclosure policy .
 
-Dogecoin (CRYPTO: DOGE)
+Crypto Market Today, Oct. 28: Bitcoin and Altcoins Gain as Fed Decision Clears the Way for Big Tech Earnings was originally published by The Motley Fool","Title: Crypto Market Today, Oct. 28: Bitcoin and Altcoins Gain as Fed Decision Clears the Way for Big Tech Earnings
+Summary: Bitcoin extended its recovery above $81,000 as the Fed held interest rates steady, with investors now turning their attention to major Big Tech earnings that could shape the market's next move.
+Content: As of early evening on Oct. 28, Bitcoin (CRYPTO:BTC) rose 0.52% to $81,220.35, Ethereum (CRYPTO:ETH) rose 0.68% to $2,363.24, and Solana (CRYPTO:SOL) rose 1.33% to $102.60.
 
-12.1%
+Bitcoin and the broader cryptocurrency market posted back-to-back gains despite a busy week of economic developments.
 
-15
+Most notably, the Federal Reserve held its benchmark interest rate steady at 3.75% to 4%, in line with market expectations. However, the central bank acknowledged that inflation remains elevated, leaving the possibility of future rate hikes on the table.
 
-Hedera (CRYPTO: HBAR)
+Investors will now turn their attention to a wave of corporate earnings. Alphabet (NASDAQ:GOOGL) (NASDAQ:GOOG), Microsoft (NASDAQ:MSFT) , and ServiceNow (NYSE:NOW) are scheduled to report after Wednesday's market close. Any disappointing results, particularly from these major technology companies, could weigh on broader market sentiment and put pressure on crypto's recent gains.
 
-12.7%
+Fortunately, Spot crypto ETFs traded firmer over the last few days. The iShares Bitcoin Trust ETF (NASDAQ:IBIT) up 0.96%, Fidelity Wise Origin Bitcoin Fund (NYSEMKT:FBTC) up 1.01%, and iShares Ethereum Trust ETF (NASDAQ:ETHA) up 1.07%.
 
-16
+The next development to watch is whether these price gains translate into renewed investor demand. A return to sustained ETF inflows would provide a more convincing sign that the market is stabilizing.
 
-Stellar (CRYPTO: XLM)
+With the Federal Reserve's decision in the rearview, attention now shifts toward corporate earnings and what they reveal about the broader economy.
 
-13.5%
+This week's reports from major technology companies should provide valuable insight into consumer and business spending, corporate profitability, and the AI infrastructure boom that has helped drive much of the market's recent growth. Amazon (NASDAQ: AMZN) and Intel (NASDAQ: INTC) are slated to report Thursday after the closing bell.
 
-Notably, smaller coins rank lower, with Chainlink, Zcash, Dogecoin, Hedera, and Stellar each down more than 10%. Their smaller market sizes largely contributed to these deeper losses.
+For crypto investors, the next move may depend as much on these broader market developments as on events within the digital asset industry itself.
 
-------
+Encouragingly, several major cryptocurrencies remain above their summer lows despite the recent correction. However, the recovery is far from convincing, and disappointing earnings or renewed inflation concerns could quickly put sellers back in control.
 
-Many successful investors eventually reach the same moment. The saving is done, the portfolio is built, and the question quietly changes from how much can I grow this to how much can I take out? Get that second question wrong and decades of good investing can come apart in a handful of years.
+#
 
-That is exactly what The Definitive Guide to Retirement Income helps answer. It covers what your retirement could actually cost, which income sources are worth using, and the withdrawal math that decides whether the money lasts. It is free today from Fisher Investments. Read More Here ›
+Name
 
-------
+Price
 
-Market size is like water depth: a large rock tossed into a lake barely causes a ripple, while it creates a significant splash in a bathtub. Bitcoin's daily trading volume consistently runs into the tens of billions of dollars, so even substantial sell orders have minimal impact on its price. Smaller coins, with less trading volume, can drop sharply on similar sell orders because fewer buyers are available at different price points.
+24h
 
-However, market size alone doesn't explain every coin's performance. Ethereum, for example, is the second-largest cryptocurrency but fell 8.8%, steeper than Cardano's 6.4% drop. Interestingly, NEAR and Monero, both smaller than Bitcoin, still posted less severe losses, inviting further investigation.
-
-When a coin's price stays relatively stable during a market drop, it can point to different scenarios. On one hand, it might suggest robust buyer demand stepping in to support the price. On the other hand, it could indicate that the coin is rarely traded, so less selling pressure affects its price.
-
-NEAR's performance over the past month complicates this analysis. The blockchain network, designed for running applications, has surged 91.7% over the last 30 days, a stretch that includes the selloff week. This sharp rise may suggest earlier investors are still in profit, so a flat week could simply be a pause after recent gains.
-
-Monero, known for privacy features that obscure transaction details, has risen 8.4% over the last month. Its more modest performance compared to NEAR weakens the momentum argument for its stable week, though price data alone can't rule out lighter trading activity.
-
-Examining fund flows offers additional insight, though data is limited to five coins on the list. Exchange-traded funds (ETFs) allow investors to own a coin through regular brokerage accounts. On October 8, Bitcoin-based funds lost $244 million, Ethereum funds lost $73 million, and Solana funds dropped $3.3 million. In contrast, XRP funds gained $8.2 million, and Dogecoin saw no change in flows.
-
-Although these fund flows can inform us about investor sentiment, they don't always correlate neatly with price changes. For instance, XRP funds attracted new investment while XRP fell 9.0%, more than Bitcoin, which saw the largest outflow. Notably, there is no fund flow data for NEAR or Monero, so it's challenging to determine whether investor interest is supporting these coins.
-
-Bitcoin performed well, dropping only 3.6% amid a turbulent market, even as $244 million left Bitcoin funds in a single day. While NEAR and Monero posted smaller losses, those results could reflect lower trading volume rather than genuine buying support.
-
-Future market shifts will be critical to assessing NEAR and Monero's resilience. If Bitcoin drops below $80,000 and NEAR and Monero fall more sharply, their previous stability was likely due to lower trading volumes. However, if these coins remain stable while Bitcoin continues to slide, it would indicate healthy demand for NEAR and Monero and could position them as strong market contenders.
-
-(Sponsor) Most people spend their entire working lives focusing on one thing: growing a pile of money. Then they retire and discover the skill they actually need is close to the opposite. Turning that pile into steady income, year after year, through good markets and bad, without ever running out.
-
-It may be the least discussed and most consequential transition in personal finance, and plenty of otherwise careful investors walk into it with no real plan. That is exactly what The Definitive Guide to Retirement Income helps answer. It is a free guide from Fisher Investments covering what your retirement will really cost, where the cash flow should come from, and how much you can safely withdraw each year. Learn more here. Learn More Here ›
-
-Contact editorial@247wallst.com for any questions or corrections.","Title: Bitcoin Dips to $80,000: How Other Coins Fared in the Market Slide
-Summary: When Bitcoin tumbled to $80,000 and dragged most of the crypto market down with it, two smaller coins barely budged. Whether that signals genuine strength or something far less exciting depends on answers the price data alone cannot provide.
-Content: Bitcoin dropped 3.6% for the week to $83,247, while 13 of 16 major coins fell harder, with Stellar sliding 13.5%.
-
-NEAR Protocol surged 91.7% over the prior month, which may explain its near-flat weekly loss of just 0.3% during the selloff.
-
-Bitcoin ETFs shed $244 million in a single day yet BTC outperformed XRP, which gained $8.2 million in fund inflows but still fell 9%.
-
-Bitcoin (CRYPTO: BTC) fell to $80,000, leading to a significant decline in the cryptocurrency market on October 8, 2026. Of the 15 major coins tracked, 13 fell more than Bitcoin. However, NEAR Protocol (CRYPTO: NEAR) and Monero (CRYPTO: XMR) stood out, falling only 0.3% and 1.3%, respectively.
-
-By October 9, Bitcoin had bounced back slightly to $83,247, down 3.6% over the week. This raises the question: did NEAR and Monero show real strength during this crypto selloff, or did their stable prices reflect lower trading activity?
-
-Here's how major coins ranked based on their seven-day price changes as of October 9, listed from smallest drop to largest:
-
-Rank
-
-Coin
-
-Seven-Day Drop
+7d
 
 1
 
-NEAR Protocol
+Bitcoin (BTC)
 
-0.3%
+$81,220.35
+
++0.5%
+
+-3.4%
 
 2
 
-Monero
+Ethereum (ETH)
 
-1.3%
+$2,363.24
+
++0.7%
+
+-5.1%
 
 3
 
-Bitcoin
+Tether (USDT)
 
-3.6%
+$0.9993
+
++0.1%
+
+-0.0%
 
 4
 
-Hyperliquid (CRYPTO: HYPE)
+BNB (BNB)
 
-5.3%
+$754.47
+
++0.9%
+
++0.8%
 
 5
 
-Cardano (CRYPTO: ADA)
+XRP (XRP)
 
-6.4%
+$1.33
+
++0.6%
+
+-3.8%
 
 6
 
-Avalanche (CRYPTO: AVAX)
+USDC (USDC)
 
-6.6%
+$0.9995
+
++0.0%
+
+-0.0%
 
 7
 
-Litecoin (CRYPTO: LTC)
+Solana (SOL)
 
-8.0%
+$102.60
+
++1.3%
+
+-4.8%
 
 8
 
-Ethereum (CRYPTO: ETH)
+TRON (TRX)
 
-8.8%
+$0.3294
+
+-0.2%
+
+-0.8%
 
 9
 
-Solana (CRYPTO: SOL)
+Figure Heloc (FIGR_HELOC)
 
-8.9%
+$1.03
+
++1.4%
+
++2.6%
 
 10
 
-XRP (CRYPTO: XRP)
+Zcash (ZEC)
 
-9.0%
+$1,298.52
 
-11
+-0.0%
 
-Sui (CRYPTO: SUI)
+-3.3%
 
-9.1%
+Ranked by market cap. Price and 24-hour change for BTC, ETH and SOL: FMP, the same figures used in the text above. All other figures: CoinGecko, as of October 28, 2026 20:17 UTC.
 
-12
+Before you buy stock in Bitcoin, consider this:
 
-Chainlink (CRYPTO: LINK)
+The Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and Bitcoin wasn't one of them. The 10 stocks that made the cut could produce monster returns in the coming years.
 
-10.4%
+Consider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, you'd have $337,166 !* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you'd have $1,339,143 !*
 
-13
+Now, it's worth noting Stock Advisor's total average return is 904% — a market-crushing outperformance compared to 213% for the S&P 500. Don't miss the latest top 10 list, available with Stock Advisor , and join an investing community built by individual investors for individual investors.
 
-Zcash (CRYPTO: ZEC)
+See the 10 stocks »
 
-10.8%
+*Stock Advisor returns as of October 28, 2026.
 
-14
+RJ Fulton has positions in Bitcoin, Ethereum, Solana, and iShares Bitcoin Trust. The Motley Fool has positions in and recommends Alphabet, Bitcoin, Ethereum, Intel, Microsoft, ServiceNow, Solana, and iShares Bitcoin Trust. The Motley Fool has a disclosure policy .
 
-Dogecoin (CRYPTO: DOGE)
+Crypto Market Today, Oct. 28: Bitcoin and Altcoins Gain as Fed Decision Clears the Way for Big Tech Earnings was originally published by The Motley Fool",summary_and_content
+4,0.6008682,"Bitcoin little-changed at $80.4k as oil, rate jitters dent crypto appetite",Investing.com,2026-10-26 06:54:50+00:00,https://finance.yahoo.com/markets/crypto/articles/bitcoin-pinned-80-2k-oil-065450923.html,"Investing.com-- Bitcoin moved slightly lower on Monday after logging sharp losses over the weekend, as persistent concerns over rising oil prices and anticipation of key central bank meetings largely dented appetite for cryptocurrencies.","Investing.com-- Bitcoin moved slightly lower on Monday after logging sharp losses over the weekend, as persistent concerns over rising oil prices and anticipation of key central bank meetings largely dented appetite for cryptocurrencies.
 
-12.1%
+Still guessing which stocks will beat the market? Our AI portfolio updates monthly and is outperforming the S&P 500 by 118%. See this month's list »
 
-15
+The world's largest crypto edged down 0.3% to $80,425.7 by 11:01 ET (09:01 GMT).
 
-Hedera (CRYPTO: HBAR)
+Bitcoin slid by about $2,000 over the weekend as sentiment showed little improvement amid a sustained decline in global technology stocks, and as markets positioned for more hawkish signals from the world's biggest central banks in the coming days.
 
-12.7%
+Bitcoin was trading close to the bottom end of an $80,000 to $87,000 trading range established over the past month, amid a dearth of positive cues for crypto markets.
 
-16
+While oil prices slid from six-month highs on Monday– following a report of more talks between Middle Eastern powers and Iran– they still remained close to annual peaks, leaving markets on edge over their impact on the global economy.
 
-Stellar (CRYPTO: XLM)
+Adding to the risk aversion, a host of major central banks are set to meet this week, with the Federal Reserve, European Central Bank, and the Bank of Japan widely expected to leave interest rates unchanged.
 
-13.5%
+Unsure what to buy ahead of earnings? Our AI's recent pre-earnings calls delivered gains of +77% to +118% after results dropped. See this month's earnings picks »
 
-Notably, smaller coins rank lower, with Chainlink, Zcash, Dogecoin, Hedera, and Stellar each down more than 10%. Their smaller market sizes largely contributed to these deeper losses.
+But all three banks are expected to present a hawkish outlook in the face of increasingly sticky inflation and energy risks, leaving the door open for more rate hikes later in the year.
+
+Higher rates bode poorly for risky, speculative assets like crypto, and stand to further pressure prices in the long term.
+
+Tracking Bitcoin, broader crypto prices also rose marginally Monday.
+
+A seasonal trend of crypto price strength in October– dubbed as ""uptober""-- failed to materialize for a second consecutive year, as retail and institutional sentiment towards the sector remained weak.
+
+World no.2 crypto Ether slid 0.7% to $2,327.05, while XRP added 0.2%.
+
+Solana added 0.6%, Cardano rose 0.5%, while BNB gained 0.4%.
+
+Among memecoins, Dogecoin rose 0.7% and $TRUMP climbed 2.8%.
+
+Vahid Karaahmetovic contributed to this report.
+
+Original Article
+
+Bitcoin little-changed at $80.4k as oil, rate jitters dent crypto appetite
+
+Bitcoin steadies near $80,400 after weekend selloff, Fed decision looms
+
+Bitcoin flat around $82k as tech rout, rising oil dent risk","Title: Bitcoin little-changed at $80.4k as oil, rate jitters dent crypto appetite
+Summary: Investing.com-- Bitcoin moved slightly lower on Monday after logging sharp losses over the weekend, as persistent concerns over rising oil prices and anticipation of key central bank meetings largely dented appetite for cryptocurrencies.
+Content: Investing.com-- Bitcoin moved slightly lower on Monday after logging sharp losses over the weekend, as persistent concerns over rising oil prices and anticipation of key central bank meetings largely dented appetite for cryptocurrencies.
+
+Still guessing which stocks will beat the market? Our AI portfolio updates monthly and is outperforming the S&P 500 by 118%. See this month's list »
+
+The world's largest crypto edged down 0.3% to $80,425.7 by 11:01 ET (09:01 GMT).
+
+Bitcoin slid by about $2,000 over the weekend as sentiment showed little improvement amid a sustained decline in global technology stocks, and as markets positioned for more hawkish signals from the world's biggest central banks in the coming days.
+
+Bitcoin was trading close to the bottom end of an $80,000 to $87,000 trading range established over the past month, amid a dearth of positive cues for crypto markets.
+
+While oil prices slid from six-month highs on Monday– following a report of more talks between Middle Eastern powers and Iran– they still remained close to annual peaks, leaving markets on edge over their impact on the global economy.
+
+Adding to the risk aversion, a host of major central banks are set to meet this week, with the Federal Reserve, European Central Bank, and the Bank of Japan widely expected to leave interest rates unchanged.
+
+Unsure what to buy ahead of earnings? Our AI's recent pre-earnings calls delivered gains of +77% to +118% after results dropped. See this month's earnings picks »
+
+But all three banks are expected to present a hawkish outlook in the face of increasingly sticky inflation and energy risks, leaving the door open for more rate hikes later in the year.
+
+Higher rates bode poorly for risky, speculative assets like crypto, and stand to further pressure prices in the long term.
+
+Tracking Bitcoin, broader crypto prices also rose marginally Monday.
+
+A seasonal trend of crypto price strength in October– dubbed as ""uptober""-- failed to materialize for a second consecutive year, as retail and institutional sentiment towards the sector remained weak.
+
+World no.2 crypto Ether slid 0.7% to $2,327.05, while XRP added 0.2%.
+
+Solana added 0.6%, Cardano rose 0.5%, while BNB gained 0.4%.
+
+Among memecoins, Dogecoin rose 0.7% and $TRUMP climbed 2.8%.
+
+Vahid Karaahmetovic contributed to this report.
+
+Original Article
+
+Bitcoin little-changed at $80.4k as oil, rate jitters dent crypto appetite
+
+Bitcoin steadies near $80,400 after weekend selloff, Fed decision looms
+
+Bitcoin flat around $82k as tech rout, rising oil dent risk",summary_and_content
+5,0.5927862,Bitcoin rises slightly after Fed holds interest rates steady; oil caps gains,Investing.com,2026-10-28 06:49:56+00:00,https://finance.yahoo.com/markets/crypto/articles/bitcoin-near-81k-tech-rally-064956980.html,"Investing.com -- Bitcoin was slightly higher on Wednesday after the Federal Reserve held interest rates steady as largely expected and Chair Kevin Warsh signaled that financial conditions had tightened somewhat since the central bank’s September rate decision. Gains in the crypto were capped by a rise in oil prices, which kept a lid on sentiment.","Investing.com -- Bitcoin was slightly higher on Wednesday after the Federal Reserve held interest rates steady as largely expected and Chair Kevin Warsh signaled that financial conditions had tightened somewhat since the central bank's September rate decision. Gains in the crypto were capped by a rise in oil prices, which kept a lid on sentiment.
+
+Still guessing which stocks will beat the market? Our AI portfolio updates monthly and is outperforming the S&P 500 by 118%. See this month's list »
+
+The world's largest crypto was last up 0.6% to $81,336.1 by 17:50 ET (21:50 GMT). Bitcoin was set to lose 3.2% in October – its second consecutive year of losses in the month – as a historical trend of strength in October – dubbed ""uptober"" – failed to materialize.
+
+Crypto market participants were focused squarely on the Fed's latest interest rate decision on Wednesday. The Federal Open Market Committee (FOMC) maintained the federal funds rate at 3.75%-4.00% in a 10-2 vote, with Governor Lisa Cook and Cleveland Fed President Beth Hammack preferring a quarter-point hike instead. The outcome had been largely expected, following the FOMC's first rate hike in over three years in September.
+
+The decision to stay pat on rates came despite hotter-than-expected inflation readings recently.
+
+Fed Chair Kevin Warsh at the post-decision press conference said that conditions on the employment side of the central bank's dual mandate were ""quite positive"" and that the FOMC's discussion focused mainly on the inflation side. Warsh added that the Fed had also seen some tightening of financial conditions and more discerning market participants since the FOMC's September meeting.
+
+Warsh also noted that there was crucial economic data scheduled in the days ahead, and that the information received ""over the coming period will help us determine where policy will be.""
+
+Watchers of monetary policy will indeed receive Q3 U.S. gross domestic product data and the September reading on the Fed's preferred inflation gauge as soon as Thursday.
+
+""The period right in front of us is information rich,"" Warsh said, adding that ""in this coming period, we're going to be able to figure out what's the appropriate protocol…to deliver price stability. I'm encouraged by the progress we've made in a short period of time.""
+
+Warsh also announced a change in the FOMC's meeting schedule for 2027 and 2028. While the committee will continue to hold eight meetings, one of those meetings next year will focus on monetary policy strategy instead of delivering a decision on the federal funds rate. That will expand to two meetings in 2028.
+
+Meanwhile, oil prices advanced, with Brent crude futures settling 1% higher.
+
+Unsure what to buy ahead of earnings? Our AI's recent pre-earnings calls delivered gains of +77% to +118% after results dropped. See this month's earnings picks »
+
+The advance came amid furious fighting between Iran-backed Houthis and the Saudi Arabia-backed government in Yemen. The Houthis on Tuesday said the group had attacked the Ras Tanura refinery, the biggest oil refinery in Saudi Arabia. The fighting has intensified amid an offensive push from the Saudi-led coalition to retake swathes of land captured by the Houthis around the Bab el-Mandeb Strait.
+
+The attacks have outweighed diplomatic efforts to bring the U.S. and Iran back to the negotiating table. Iran earlier this week held a quadrilateral meeting with representatives from Pakistan, Saudi Arabia, and Türkiye.
+
+Elsewhere, class A shares in trading platform Robinhood ended over 3% lower on Wednesday after a prolonged slump in cryptocurrency markets pulled its quarterly profit below Wall Street's expectations.
+
+Earnings per share fell 16% to 51 cents, short of the 55 cents analysts expected, according to LSEG estimates. Total net revenue rose 12% to $1.42 billion.
+
+However, revenue from cryptocurrencies dropped 55% to $120 million. Rising oil prices and geopolitical tensions have unsettled markets, and heightened volatility has led retail traders to pull back from speculative bets.
+
+Turning to broader crypto prices, most altcoins followed Bitcoin marginally higer.
+
+World no.2 crypto Ether added 0.6% to $2,365.02, while XRP rose 0.6% as well.
+
+Cardano, Solana, and BNB improved 0.8%, 1.4%, and 1.6%, respectively.
+
+Among memecoins, Dogecoin and $TRUMP advanced 2.2% and 2.8%, respectively.
+
+Ambar Warrick and Vahid Karaahmetovic contributed to this article
+
+Original Article
+
+Bitcoin rises slightly after Fed holds interest rates steady; oil caps gains
+
+Bitcoin up as risk sentiment, oil slip offset Strategy buying pause, Fed caution
+
+Bitget Wallet adds USD, EUR accounts that convert deposits into stablecoins","Title: Bitcoin rises slightly after Fed holds interest rates steady; oil caps gains
+Summary: Investing.com -- Bitcoin was slightly higher on Wednesday after the Federal Reserve held interest rates steady as largely expected and Chair Kevin Warsh signaled that financial conditions had tightened somewhat since the central bank’s September rate decision. Gains in the crypto were capped by a rise in oil prices, which kept a lid on sentiment.
+Content: Investing.com -- Bitcoin was slightly higher on Wednesday after the Federal Reserve held interest rates steady as largely expected and Chair Kevin Warsh signaled that financial conditions had tightened somewhat since the central bank's September rate decision. Gains in the crypto were capped by a rise in oil prices, which kept a lid on sentiment.
+
+Still guessing which stocks will beat the market? Our AI portfolio updates monthly and is outperforming the S&P 500 by 118%. See this month's list »
+
+The world's largest crypto was last up 0.6% to $81,336.1 by 17:50 ET (21:50 GMT). Bitcoin was set to lose 3.2% in October – its second consecutive year of losses in the month – as a historical trend of strength in October – dubbed ""uptober"" – failed to materialize.
+
+Crypto market participants were focused squarely on the Fed's latest interest rate decision on Wednesday. The Federal Open Market Committee (FOMC) maintained the federal funds rate at 3.75%-4.00% in a 10-2 vote, with Governor Lisa Cook and Cleveland Fed President Beth Hammack preferring a quarter-point hike instead. The outcome had been largely expected, following the FOMC's first rate hike in over three years in September.
+
+The decision to stay pat on rates came despite hotter-than-expected inflation readings recently.
+
+Fed Chair Kevin Warsh at the post-decision press conference said that conditions on the employment side of the central bank's dual mandate were ""quite positive"" and that the FOMC's discussion focused mainly on the inflation side. Warsh added that the Fed had also seen some tightening of financial conditions and more discerning market participants since the FOMC's September meeting.
+
+Warsh also noted that there was crucial economic data scheduled in the days ahead, and that the information received ""over the coming period will help us determine where policy will be.""
+
+Watchers of monetary policy will indeed receive Q3 U.S. gross domestic product data and the September reading on the Fed's preferred inflation gauge as soon as Thursday.
+
+""The period right in front of us is information rich,"" Warsh said, adding that ""in this coming period, we're going to be able to figure out what's the appropriate protocol…to deliver price stability. I'm encouraged by the progress we've made in a short period of time.""
+
+Warsh also announced a change in the FOMC's meeting schedule for 2027 and 2028. While the committee will continue to hold eight meetings, one of those meetings next year will focus on monetary policy strategy instead of delivering a decision on the federal funds rate. That will expand to two meetings in 2028.
+
+Meanwhile, oil prices advanced, with Brent crude futures settling 1% higher.
+
+Unsure what to buy ahead of earnings? Our AI's recent pre-earnings calls delivered gains of +77% to +118% after results dropped. See this month's earnings picks »
+
+The advance came amid furious fighting between Iran-backed Houthis and the Saudi Arabia-backed government in Yemen. The Houthis on Tuesday said the group had attacked the Ras Tanura refinery, the biggest oil refinery in Saudi Arabia. The fighting has intensified amid an offensive push from the Saudi-led coalition to retake swathes of land captured by the Houthis around the Bab el-Mandeb Strait.
+
+The attacks have outweighed diplomatic efforts to bring the U.S. and Iran back to the negotiating table. Iran earlier this week held a quadrilateral meeting with representatives from Pakistan, Saudi Arabia, and Türkiye.
+
+Elsewhere, class A shares in trading platform Robinhood ended over 3% lower on Wednesday after a prolonged slump in cryptocurrency markets pulled its quarterly profit below Wall Street's expectations.
+
+Earnings per share fell 16% to 51 cents, short of the 55 cents analysts expected, according to LSEG estimates. Total net revenue rose 12% to $1.42 billion.
+
+However, revenue from cryptocurrencies dropped 55% to $120 million. Rising oil prices and geopolitical tensions have unsettled markets, and heightened volatility has led retail traders to pull back from speculative bets.
+
+Turning to broader crypto prices, most altcoins followed Bitcoin marginally higer.
+
+World no.2 crypto Ether added 0.6% to $2,365.02, while XRP rose 0.6% as well.
+
+Cardano, Solana, and BNB improved 0.8%, 1.4%, and 1.6%, respectively.
+
+Among memecoins, Dogecoin and $TRUMP advanced 2.2% and 2.8%, respectively.
+
+Ambar Warrick and Vahid Karaahmetovic contributed to this article
+
+Original Article
+
+Bitcoin rises slightly after Fed holds interest rates steady; oil caps gains
+
+Bitcoin up as risk sentiment, oil slip offset Strategy buying pause, Fed caution
+
+Bitget Wallet adds USD, EUR accounts that convert deposits into stablecoins",summary_and_content
+6,0.58989966,"Crypto Market Today, Oct. 26: Bitcoin Slips Below $80,000 as Fed Decision Looms",Motley Fool,2026-10-26 21:25:02+00:00,https://finance.yahoo.com/markets/crypto/articles/crypto-market-today-oct-26-212502358.html,Major cryptocurrencies weakened amid broader risk aversion as traders await the Fed decision.,"As of early evening on Oct. 26, the broader cryptocurrency market extended its losing streak amid fading risk appetite. Notably, Bitcoin (CRYPTO:BTC) fell 0.28% to $79,817.06, Ethereum (CRYPTO:ETH) fell 0.58% to $2,313.61, and Solana (CRYPTO:SOL) fell 0.94% to $100.30.
+
+The recent selling across crypto markets appears to be driven by two main factors.
+
+First, traders are reducing their exposure ahead of the Federal Reserve's interest rate decision on Oct. 28. Investors often become more cautious leading up to major economic announcements, particularly when the outcome could influence interest rates and broader market sentiment.
+
+Second, the crypto market is coming off a strong finish to the third quarter, with several cryptocurrencies posting double-digit rebounds from their summer lows. Some profit-taking after a rally of that magnitude is hardly surprising, particularly as investors weigh the potential impact of the Fed's upcoming decision.
+
+When looking at crypto ETF's, they experienced a similar wave of selling. The iShares Bitcoin Trust ETF (NASDAQ:IBIT) fell 1.61%, Fidelity Wise Origin Bitcoin Fund (NYSEMKT:FBTC) fell 1.66%, and iShares Ethereum Trust ETF (NASDAQ:ETHA) fell 3.22%.
+
+Continued weakness in crypto markets heading into Wednesday's Federal Reserve meeting remains a likely possibility as investors take a cautious approach. Although the market is pricing in just an 8% probability of a rate hike, uncertainty surrounding the Fed's decision and subsequent commentary could keep volatility elevated.
+
+For crypto to regain its footing in the near term, investors should watch whether Bitcoin can defend the $80,000 zone and whether major altcoins begin showing signs of renewed strength. Stabilization across these assets could signal improving risk appetite, while further declines would suggest sellers remain in control.
+
+#
+
+Name
+
+Price
+
+24h
+
+7d
+
+1
+
+Bitcoin (BTC)
+
+$79,817.06
+
+-0.3%
+
+-2.4%
+
+2
+
+Ethereum (ETH)
+
+$2,313.61
+
+-0.6%
+
+-3.5%
+
+3
+
+Tether (USDT)
+
+$0.9986
+
+-0.0%
+
+-0.1%
+
+4
+
+BNB (BNB)
+
+$741.88
+
++0.1%
+
++2.2%
+
+5
+
+XRP (XRP)
+
+$1.29
+
+-0.5%
+
+-0.6%
+
+6
+
+USDC (USDC)
+
+$0.9993
+
+-0.0%
+
+-0.1%
+
+7
+
+Solana (SOL)
+
+$100.30
+
+-0.9%
+
+-3.4%
+
+8
+
+TRON (TRX)
+
+$0.3299
+
+-0.2%
+
+-0.4%
+
+9
+
+Figure Heloc (FIGR_HELOC)
+
+$1.04
+
+n/a
+
++1.8%
+
+10
+
+Zcash (ZEC)
+
+$1,222.90
+
++0.3%
+
++8.8%
+
+Ranked by market cap. Price and 24-hour change for BTC, ETH and SOL: FMP, the same figures used in the text above. All other figures: CoinGecko, as of October 26, 2026 20:17 UTC.
+
+Before you buy stock in Bitcoin, consider this:
+
+The Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and Bitcoin wasn't one of them. The 10 stocks that made the cut could produce monster returns in the coming years.
+
+Consider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, you'd have $355,124 !* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you'd have $1,296,254 !*
+
+Now, it's worth noting Stock Advisor's total average return is 901% — a market-crushing outperformance compared to 210% for the S&P 500. Don't miss the latest top 10 list, available with Stock Advisor , and join an investing community built by individual investors for individual investors.
+
+See the 10 stocks »
+
+*Stock Advisor returns as of October 26, 2026.
+
+RJ Fulton has positions in Bitcoin, Ethereum, Solana, and iShares Bitcoin Trust. The Motley Fool has positions in and recommends Bitcoin, Ethereum, Solana, and iShares Bitcoin Trust. The Motley Fool has a disclosure policy .
+
+Crypto Market Today, Oct. 26: Bitcoin Slips Below $80,000 as Fed Decision Looms was originally published by The Motley Fool","Title: Crypto Market Today, Oct. 26: Bitcoin Slips Below $80,000 as Fed Decision Looms
+Summary: Major cryptocurrencies weakened amid broader risk aversion as traders await the Fed decision.
+Content: As of early evening on Oct. 26, the broader cryptocurrency market extended its losing streak amid fading risk appetite. Notably, Bitcoin (CRYPTO:BTC) fell 0.28% to $79,817.06, Ethereum (CRYPTO:ETH) fell 0.58% to $2,313.61, and Solana (CRYPTO:SOL) fell 0.94% to $100.30.
+
+The recent selling across crypto markets appears to be driven by two main factors.
+
+First, traders are reducing their exposure ahead of the Federal Reserve's interest rate decision on Oct. 28. Investors often become more cautious leading up to major economic announcements, particularly when the outcome could influence interest rates and broader market sentiment.
+
+Second, the crypto market is coming off a strong finish to the third quarter, with several cryptocurrencies posting double-digit rebounds from their summer lows. Some profit-taking after a rally of that magnitude is hardly surprising, particularly as investors weigh the potential impact of the Fed's upcoming decision.
+
+When looking at crypto ETF's, they experienced a similar wave of selling. The iShares Bitcoin Trust ETF (NASDAQ:IBIT) fell 1.61%, Fidelity Wise Origin Bitcoin Fund (NYSEMKT:FBTC) fell 1.66%, and iShares Ethereum Trust ETF (NASDAQ:ETHA) fell 3.22%.
+
+Continued weakness in crypto markets heading into Wednesday's Federal Reserve meeting remains a likely possibility as investors take a cautious approach. Although the market is pricing in just an 8% probability of a rate hike, uncertainty surrounding the Fed's decision and subsequent commentary could keep volatility elevated.
+
+For crypto to regain its footing in the near term, investors should watch whether Bitcoin can defend the $80,000 zone and whether major altcoins begin showing signs of renewed strength. Stabilization across these assets could signal improving risk appetite, while further declines would suggest sellers remain in control.
+
+#
+
+Name
+
+Price
+
+24h
+
+7d
+
+1
+
+Bitcoin (BTC)
+
+$79,817.06
+
+-0.3%
+
+-2.4%
+
+2
+
+Ethereum (ETH)
+
+$2,313.61
+
+-0.6%
+
+-3.5%
+
+3
+
+Tether (USDT)
+
+$0.9986
+
+-0.0%
+
+-0.1%
+
+4
+
+BNB (BNB)
+
+$741.88
+
++0.1%
+
++2.2%
+
+5
+
+XRP (XRP)
+
+$1.29
+
+-0.5%
+
+-0.6%
+
+6
+
+USDC (USDC)
+
+$0.9993
+
+-0.0%
+
+-0.1%
+
+7
+
+Solana (SOL)
+
+$100.30
+
+-0.9%
+
+-3.4%
+
+8
+
+TRON (TRX)
+
+$0.3299
+
+-0.2%
+
+-0.4%
+
+9
+
+Figure Heloc (FIGR_HELOC)
+
+$1.04
+
+n/a
+
++1.8%
+
+10
+
+Zcash (ZEC)
+
+$1,222.90
+
++0.3%
+
++8.8%
+
+Ranked by market cap. Price and 24-hour change for BTC, ETH and SOL: FMP, the same figures used in the text above. All other figures: CoinGecko, as of October 26, 2026 20:17 UTC.
+
+Before you buy stock in Bitcoin, consider this:
+
+The Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and Bitcoin wasn't one of them. The 10 stocks that made the cut could produce monster returns in the coming years.
+
+Consider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, you'd have $355,124 !* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you'd have $1,296,254 !*
+
+Now, it's worth noting Stock Advisor's total average return is 901% — a market-crushing outperformance compared to 210% for the S&P 500. Don't miss the latest top 10 list, available with Stock Advisor , and join an investing community built by individual investors for individual investors.
+
+See the 10 stocks »
+
+*Stock Advisor returns as of October 26, 2026.
+
+RJ Fulton has positions in Bitcoin, Ethereum, Solana, and iShares Bitcoin Trust. The Motley Fool has positions in and recommends Bitcoin, Ethereum, Solana, and iShares Bitcoin Trust. The Motley Fool has a disclosure policy .
+
+Crypto Market Today, Oct. 26: Bitcoin Slips Below $80,000 as Fed Decision Looms was originally published by The Motley Fool",summary_and_content
+7,0.5896375,"Is Bitcoin a Good Buy at $80,000 Right Now?",24/7 Wall St.,2026-10-26 14:56:20+00:00,https://finance.yahoo.com/markets/crypto/articles/bitcoin-good-buy-80-000-145620150.html,"Wall Street's biggest Bitcoin buyers are sitting right at breakeven near $80,000, and how they respond to this pressure point could determine whether BTC holds steady or slides toward territory not seen since summer.","Bitcoin trades near $80,000, the average cost basis for spot ETF holders and corporate treasuries, leaving major investors at breakeven.
+
+Spot Bitcoin ETFs shed over $773 million in late October outflows while Strategy's most recent purchase totaled just 250 BTC.
+
+Bitcoin's Crypto Fear & Greed Index sits at 44, a level historically linked to better entry prices than chasing rising markets.
+
+It sounds nuts, but SoFi is giving new Active Invest users up to $1,000 in stock for a limited time, and all it takes is a $50 deposit to get started. See for yourself (Sponsor)
+
+Bitcoin (CRYPTO:BTC) is hovering around $80,000, the average price many of Wall Street's recent Bitcoin investors paid, so many are weighing whether to buy at $80,000. BTC is trading at about $79,560, roughly 36.9% below its all-time high of $126,080. Over the past month, Bitcoin has declined by 5.0%, is down 8.4% year-to-date, and has dropped 30.0% over the last year.
+
+In October, Bitcoin has also fallen 4.1% so far, with its 30-day low at $79,107, just below the current price. It also remains below its 50-day average of $81,802. So, is this a good time to buy Bitcoin, especially since many significant investors are at breakeven?
+
+The cost basis, or the average price that investors paid for Bitcoin, shows some interesting trends. According to Glassnode data, spot ETF holders and corporate treasuries bought Bitcoin at an average price between $80,000 and $81,500. This means they are nearly at breakeven, with little gain or loss.
+
+Glassnode's findings indicate that Bitcoin bounced back twice near $81,500, which is the average price for U.S. spot ETF holders. On October 15, Bitcoin dropped to around $80,000, and buying interest picked up quickly.
+
+If the price falls further, Glassnode's True Market Mean suggests that the average price for active investors is about $77,600. To reach this level, Bitcoin would need to decline approximately 2.5%, a price point it last hit on September 18.
 
 ------
 
-Many successful investors eventually reach the same moment. The saving is done, the portfolio is built, and the question quietly changes from how much can I grow this to how much can I take out? Get that second question wrong and decades of good investing can come apart in a handful of years.
-
-That is exactly what The Definitive Guide to Retirement Income helps answer. It covers what your retirement could actually cost, which income sources are worth using, and the withdrawal math that decides whether the money lasts. It is free today from Fisher Investments. Read More Here ›
+SoFi Active Invest is offering a limited-time promotion. Open an account, fund it with $50 or more, and you could receive up to $1,000 in complimentary stock for Active Invest accounts. See for yourself by clicking here now. (Sponsor)
 
 ------
 
-Market size is like water depth: a large rock tossed into a lake barely causes a ripple, while it creates a significant splash in a bathtub. Bitcoin's daily trading volume consistently runs into the tens of billions of dollars, so even substantial sell orders have minimal impact on its price. Smaller coins, with less trading volume, can drop sharply on similar sell orders because fewer buyers are available at different price points.
+Breakeven Buying Behavior: When investors find themselves at breakeven, they often buy more to protect their positions, which can help stabilize the price. Bitcoin has appreciated by 25.6% over the last 90 days and is up 37.8% since hitting a low of $57,718 on July 1.
 
-However, market size alone doesn't explain every coin's performance. Ethereum, for example, is the second-largest cryptocurrency but fell 8.8%, steeper than Cardano's 6.4% drop. Interestingly, NEAR and Monero, both smaller than Bitcoin, still posted less severe losses, inviting further investigation.
+Investor Sentiment: Market sentiment is leaning toward fear. The Crypto Fear & Greed Index, which ranges from 0 to 100 (with scores below 50 indicating fear), reads 44. Historically, buyers who enter during periods of fear often secure better prices than those who chase rising markets.
 
-When a coin's price stays relatively stable during a market drop, it can point to different scenarios. On one hand, it might suggest robust buyer demand stepping in to support the price. On the other hand, it could indicate that the coin is rarely traded, so less selling pressure affects its price.
+Strong Historical Performance: Over the past decade, Bitcoin has surged more than 11,500%. For example, someone who bought at $58,681 late in the 2021 bull run, on October 27, 2021, is still up 35.6% despite the market's decline in 2026.
 
-NEAR's performance over the past month complicates this analysis. The blockchain network, designed for running applications, has surged 91.7% over the last 30 days, a stretch that includes the selloff week. This sharp rise may suggest earlier investors are still in profit, so a flat week could simply be a pause after recent gains.
+In late October, spot Bitcoin ETFs (which directly hold Bitcoin) experienced significant outflows, losing $635.5 million on October 22 and another $137.9 million on October 23. Total assets also fell from $110.8 billion on October 5 to $104.4 billion. However, the funds reported $304.7 million in net inflows by the end of the week of October 19, bringing cumulative net inflows to $57.2 billion.
 
-Monero, known for privacy features that obscure transaction details, has risen 8.4% over the last month. Its more modest performance compared to NEAR weakens the momentum argument for its stable week, though price data alone can't rule out lighter trading activity.
+Moreover, corporate Bitcoin buying has slowed. For instance, Strategy ( NASDAQ:MSTR ), which holds 848,517 BTC, added no Bitcoin in the week leading up to October 25. Its last purchase, revealed on October 12, was only 250 BTC—a small amount for the market's largest corporate buyer.
 
-Examining fund flows offers additional insight, though data is limited to five coins on the list. Exchange-traded funds (ETFs) allow investors to own a coin through regular brokerage accounts. On October 8, Bitcoin-based funds lost $244 million, Ethereum funds lost $73 million, and Solana funds dropped $3.3 million. In contrast, XRP funds gained $8.2 million, and Dogecoin saw no change in flows.
+Bitcoin has also mirrored tech stocks in 2026, raising concerns that a sell-off in AI-focused stocks could drag its price down further. Markets are also awaiting the Federal Reserve's rate decision on October 28. If the support level around $80,000 breaks, the next significant level to watch will be the True Market Mean at $77,600.
 
-Although these fund flows can inform us about investor sentiment, they don't always correlate neatly with price changes. For instance, XRP funds attracted new investment while XRP fell 9.0%, more than Bitcoin, which saw the largest outflow. Notably, there is no fund flow data for NEAR or Monero, so it's challenging to determine whether investor interest is supporting these coins.
+Whether this is a good time to buy Bitcoin largely depends on your investment strategy and how you would react to potential price drops. Long-term investors might view $80,000 as a noteworthy price point. However, due to ETF outflows and slowing corporate purchases, Bitcoin may test the $77,600 level first.
 
-Bitcoin performed well, dropping only 3.6% amid a turbulent market, even as $244 million left Bitcoin funds in a single day. While NEAR and Monero posted smaller losses, those results could reflect lower trading volume rather than genuine buying support.
+A lump-sum investment might work well if Bitcoin rallies immediately, while dollar-cost averaging—investing fixed amounts at scheduled intervals—could help minimize losses if the price drops initially.
 
-Future market shifts will be critical to assessing NEAR and Monero's resilience. If Bitcoin drops below $80,000 and NEAR and Monero fall more sharply, their previous stability was likely due to lower trading volumes. However, if these coins remain stable while Bitcoin continues to slide, it would indicate healthy demand for NEAR and Monero and could position them as strong market contenders.
+A price recovery would likely happen in stages. First, Bitcoin would need to hold above its recent 30-day low of $79,107, then break back above $81,500 and its 50-day average of $81,802, all while ETF inflows turn positive.
 
-It may be the least discussed and most consequential transition in personal finance, and plenty of otherwise careful investors walk into it with no real plan. That is exactly what The Definitive Guide to Retirement Income helps answer. It is a free guide from Fisher Investments covering what your retirement will really cost, where the cash flow should come from, and how much you can safely withdraw each year. Learn more here. Learn More Here ›
+If the price closes above $81,802, it suggests that major holders are defending their positions. Conversely, a close below $77,600 could bring back the 2026 low of $57,718 into view. Until we see clearer upward momentum, a move toward the previous record high of $126,080 seems unlikely.
+
+Looking to grow your money but unsure where to begin? SoFi Active Invest is offering a limited-time promotion; open a new Active Invest account, fund it with $50 or more, and you could receive up to $1,000 in complimentary stock .
+
+From $0 commission trading3 to fractional shares4 and automated investing, this app is designed to simplify investing for everyone, whether you're just starting or already experienced. Its easy to sign up and secure your bonus. (Sponsor)
+
+Contact editorial@247wallst.com for any questions or corrections.","Title: Is Bitcoin a Good Buy at $80,000 Right Now?
+Summary: Wall Street's biggest Bitcoin buyers are sitting right at breakeven near $80,000, and how they respond to this pressure point could determine whether BTC holds steady or slides toward territory not seen since summer.
+Content: Bitcoin trades near $80,000, the average cost basis for spot ETF holders and corporate treasuries, leaving major investors at breakeven.
+
+Spot Bitcoin ETFs shed over $773 million in late October outflows while Strategy's most recent purchase totaled just 250 BTC.
+
+Bitcoin's Crypto Fear & Greed Index sits at 44, a level historically linked to better entry prices than chasing rising markets.
+
+Bitcoin (CRYPTO:BTC) is hovering around $80,000, the average price many of Wall Street's recent Bitcoin investors paid, so many are weighing whether to buy at $80,000. BTC is trading at about $79,560, roughly 36.9% below its all-time high of $126,080. Over the past month, Bitcoin has declined by 5.0%, is down 8.4% year-to-date, and has dropped 30.0% over the last year.
+
+In October, Bitcoin has also fallen 4.1% so far, with its 30-day low at $79,107, just below the current price. It also remains below its 50-day average of $81,802. So, is this a good time to buy Bitcoin, especially since many significant investors are at breakeven?
+
+The cost basis, or the average price that investors paid for Bitcoin, shows some interesting trends. According to Glassnode data, spot ETF holders and corporate treasuries bought Bitcoin at an average price between $80,000 and $81,500. This means they are nearly at breakeven, with little gain or loss.
+
+Glassnode's findings indicate that Bitcoin bounced back twice near $81,500, which is the average price for U.S. spot ETF holders. On October 15, Bitcoin dropped to around $80,000, and buying interest picked up quickly.
+
+If the price falls further, Glassnode's True Market Mean suggests that the average price for active investors is about $77,600. To reach this level, Bitcoin would need to decline approximately 2.5%, a price point it last hit on September 18.
+
+------
+
+------
+
+Breakeven Buying Behavior: When investors find themselves at breakeven, they often buy more to protect their positions, which can help stabilize the price. Bitcoin has appreciated by 25.6% over the last 90 days and is up 37.8% since hitting a low of $57,718 on July 1.
+
+Investor Sentiment: Market sentiment is leaning toward fear. The Crypto Fear & Greed Index, which ranges from 0 to 100 (with scores below 50 indicating fear), reads 44. Historically, buyers who enter during periods of fear often secure better prices than those who chase rising markets.
+
+Strong Historical Performance: Over the past decade, Bitcoin has surged more than 11,500%. For example, someone who bought at $58,681 late in the 2021 bull run, on October 27, 2021, is still up 35.6% despite the market's decline in 2026.
+
+In late October, spot Bitcoin ETFs (which directly hold Bitcoin) experienced significant outflows, losing $635.5 million on October 22 and another $137.9 million on October 23. Total assets also fell from $110.8 billion on October 5 to $104.4 billion. However, the funds reported $304.7 million in net inflows by the end of the week of October 19, bringing cumulative net inflows to $57.2 billion.
+
+Moreover, corporate Bitcoin buying has slowed. For instance, Strategy ( NASDAQ:MSTR ), which holds 848,517 BTC, added no Bitcoin in the week leading up to October 25. Its last purchase, revealed on October 12, was only 250 BTC—a small amount for the market's largest corporate buyer.
+
+Bitcoin has also mirrored tech stocks in 2026, raising concerns that a sell-off in AI-focused stocks could drag its price down further. Markets are also awaiting the Federal Reserve's rate decision on October 28. If the support level around $80,000 breaks, the next significant level to watch will be the True Market Mean at $77,600.
+
+Whether this is a good time to buy Bitcoin largely depends on your investment strategy and how you would react to potential price drops. Long-term investors might view $80,000 as a noteworthy price point. However, due to ETF outflows and slowing corporate purchases, Bitcoin may test the $77,600 level first.
+
+A lump-sum investment might work well if Bitcoin rallies immediately, while dollar-cost averaging—investing fixed amounts at scheduled intervals—could help minimize losses if the price drops initially.
+
+A price recovery would likely happen in stages. First, Bitcoin would need to hold above its recent 30-day low of $79,107, then break back above $81,500 and its 50-day average of $81,802, all while ETF inflows turn positive.
+
+If the price closes above $81,802, it suggests that major holders are defending their positions. Conversely, a close below $77,600 could bring back the 2026 low of $57,718 into view. Until we see clearer upward momentum, a move toward the previous record high of $126,080 seems unlikely.
+
+Looking to grow your money but unsure where to begin? SoFi Active Invest is offering a limited-time promotion; open a new Active Invest account, fund it with $50 or more, and you could receive up to $1,000 in complimentary stock .
 
 Contact editorial@247wallst.com for any questions or corrections.",summary_and_content
-10,0.55309206,Bitcoin Has Closed Four Straight Weeks Above Its 50-Week Average. The Last Time It Did That It Tripled Within a Year.,24/7 Wall St.,2026-10-12 12:00:10+00:00,https://finance.yahoo.com/markets/crypto/articles/bitcoin-closed-four-straight-weeks-120010722.html,"A rare pattern in Bitcoin's price history has only appeared twice before, and each time it triggered a dramatic move in completely opposite directions. Which outcome the current streak mirrors could define the next year for Bitcoin holders.","Bitcoin has closed above its 50-week average ($76,618) for four straight weeks, trading at $83,369 as of October 12, 2026.
+8,0.5886525,"Bitcoin up as risk sentiment, oil slip offset Strategy buying pause, Fed caution",Investing.com,2026-10-27 06:56:49+00:00,https://finance.yahoo.com/markets/crypto/articles/bitcoin-dips-below-80k-strategy-065649737.html,"Investing.com -- Bitcoin was slightly higher on Tuesday, helped by a surge in risk sentiment and a fall in oil prices. The two factors slightly outweighed caution a day ahead of the Federal Reserve’s interest rate decision and a pause in purchases of the world’s largest cryptocurrency by top corporate holder Strategy.","Investing.com -- Bitcoin was slightly higher on Tuesday, helped by a surge in risk sentiment and a fall in oil prices. The two factors slightly outweighed caution a day ahead of the Federal Reserve's interest rate decision and a pause in purchases of the world's largest cryptocurrency by top corporate holder Strategy.
 
-The last two times this signal triggered, Bitcoin surged 217% in 2023 but crashed 50% after an initial 170% gain in 2019.
+Still guessing which stocks will beat the market? Our AI portfolio updates monthly and is outperforming the S&P 500 by 118%. See this month's list »
 
-A weekly close below $76,618 would end the streak and signal a return to a downtrend, making each week's close critical to watch.
+Bitcoin was last up 1.3% to $81,119.3 by 17:42 ET (21:42 GMT), recovering after briefly dropping to $79,496.8 earlier. The crypto thus fell below an $80,000 to $87,000 trading range established over the past month.
 
-Building a portfolio and living off one are two completely different skills, and almost nobody teaches the second. This problem is what The Definitive Guide to Retirement Income helps, and it is free today. Read more here. (Sponsor)
+A risk-on mood dominated proceedings on Tuesday, with equities rising as the artificial intelligence trade surged for a second straight session on enthusiasm around Anthropic's long-awaited initial public offering filing.
 
-Bitcoin (CRYPTO:BTC) has closed above its 50-week average for four straight weeks. As of October 12, 2026, Bitcoin is trading at $83,369, while its 50-week average sits at $76,618. If it closes below this average, it would end this current streak.
+A decline in oil prices also helped sentiment. Brent crude futures settled 1.5% lower at $114.07 a barrel, after ongoing diplomatic efforts between regional Middle Eastern powers offset supply disruption fears. Iran on Monday held a quadrilateral meeting of itself, Pakistan, Saudi Arabia, and Türkiye.
 
-This indicator has appeared twice in the last decade, each time producing very different outcomes. In January 2023, Bitcoin climbed above the average near $23,000 and rose 217% to a high of around $73,000 by March 2024. Conversely, in April 2019, it rebounded to near $5,000 and initially surged 170% to about $13,800 by June, but then fell about 50% to about $6,500 by December of that same year.
+Crypto market participants were also gearing up for the Federal Open Market Committee's (FOMC) policy decision on Wednesday. The FOMC is broadly expected to leave rates unchanged, after having hiked rates in September for the first time since 2023.
 
-So what does a fourth consecutive weekly close above the average suggest about what might happen next for Bitcoin holders?
+The odds of no action from the FOMC have been reinforced despite hotter-than-expected U.S. consumer and producer inflation reports earlier this month, following Fed Chair Kevin Warsh recently declining to provide any guidance on the decision.
 
-The 50-week average is calculated by averaging Bitcoin's closing prices for the past 50 weeks. It helps smooth out price fluctuations, giving a clearer picture of longer-term trends. When Bitcoin stays above this average, it indicates that buyers are dominating the market. If it trades below, it suggests sellers are in control.
+Elsewhere, Strategy made no bitcoin purchases or sales and sold no shares under its at-the-market program during the week of October 19 to 25, 2026.
 
-------
+As of October 25, it holds about 848,517 bitcoin, bought for a total of $64.02 billion at an average of roughly $75,446 per coin, including fees and expenses.
 
-Many successful investors eventually reach the same moment. The saving is done, the portfolio is built, and the question quietly changes from how much can I grow this to how much can I take out? Get that second question wrong and decades of good investing can come apart in a handful of years.
+During the week, the company repurchased 2,068,459 shares of its STRC preferred stock (Variable Rate Series A Perpetual Stretch Preferred) for $204.9 million, paid from USD cash reserves. It bought back no other security class.
 
-That is exactly what The Definitive Guide to Retirement Income helps answer. It covers what your retirement could actually cost, which income sources are worth using, and the withdrawal math that decides whether the money lasts. It is free today from Fisher Investments. Read More Here ›
+Strategy did not disclose why it had purchased no new Bitcoin. But a pause in its buying offered some negative cues to markets, especially after the company sold some of its Bitcoin holdings earlier this year.
 
-------
+Despite recent underwhelming price performance, Galaxy said it remains confident in Bitcoin's long-term prospects and that now is the time to accumulate.
 
-The 'weekly close' refers to the last price at the end of each trading week. Traders typically regard this price as more significant than daily closes because it reduces market noise. Since Bitcoin is traded around the clock, a sudden price spike on a single day can briefly push the price above or below the average before reverting back. A weekly close counts only if Bitcoin is above the line when the week ends.
+""We think the bear market ended in June and that bitcoin is in the accumulation phase that has preceded every prior advance,"" Alex Thorn, head of firmwide research at Galaxy, said in a note titled ""Why now is the time to add and hold BTC.""
 
-When Bitcoin achieves four consecutive weekly closes above this average, it sets a higher standard. A single close might be a temporary bounce, but four consecutive ones show buyers have consistently held the price up.
+Unsure what to buy ahead of earnings? Our AI's recent pre-earnings calls delivered gains of +77% to +118% after results dropped. See this month's earnings picks »
 
-The 2023 signal is often touted as a success story. When Bitcoin reclaimed its 50-week average near $23,000 in January 2023, it skyrocketed 217% to roughly $73,000 by March 2024. Those who interpreted this signal as the start of a new uptrend were vindicated.
+Thorn said the bear market likely ended in June with prices under $58,000, and that improving chart signals, reduced selling pressure and mounting fiscal risks make the largest cryptocurrency by market capitalization attractive to accumulate.
 
-In contrast, the 2019 signal began similarly. After regaining the average near $5,000 in April 2019, it rose to about $13,800 by June—a significant increase. However, this rally was short-lived: Bitcoin fell about 50% to about $6,500 by December, leaving those who held through the year disappointed.
+He pointed to bitcoin's recovery above its 50-week moving average after 44 weeks below it. Five consecutive weekly closes above that level have strengthened his conviction that a bottom is in.
 
-Analysts attribute these differences to factors like liquidity, the amount of money flowing into riskier investments, and the timing of halving events, when the rate of new Bitcoin production is reduced. However, with only two instances to reference, these explanations remain speculative.
+Thorn also highlighted that asset managers' net long exposure through CME bitcoin futures has dropped 57% since the week of the record high, while several major trading firms substantially cut ETF holdings.
 
-Bitcoin is currently about 33.9% below its record high of $126,080. It has risen 8.0% over the past 30 days but fallen 3.2% in the last week. This mix of trends could indicate a scenario similar to either of the previous signals.
+""The fast money has left, the base stayed, and everything else is priced for perfection,"" Thorn said.
 
-The 50-week average is always changing. Each week, the oldest closing price drops out of the calculation while the most recent price is included, slightly altering the average Bitcoin needs to maintain.
+Rising U.S. debt, persistent deficits and growing interest costs strengthen Bitcoin's appeal as a fixed-supply asset, he said.
 
-This four-week streak strongly suggests Bitcoin's trend may be shifting upward. However, it doesn't necessarily indicate how far the price will rise or how long this trend will last. Both past signals preceded significant gains, but one of those gains was largely lost by the year's end.
+Cathie Wood's Ark Invest bought 65,615 shares of Circle Internet Group, worth $5.2 million, for its Next Generation Internet ETF on Monday. It also sold $15.9 million of its own spot ARK 21Shares Bitcoin ETF from two of its funds, as Bitcoin extended its slide.
 
-For now, holders should pay close attention. A weekly close below the average, currently around $76,618, would end the streak and suggest a shift back towards a downtrend. Until then, either a repeat of the 2023 rally or a downturn like 2019 remains possible.
+As of Oct. 27, Circle is the fifth-largest holding in ARKW, at a 4.3% weighting worth about $67.8 million, according to Ark's latest disclosures. Tesla, Meta, Shopify and Amazon round out the fund's other top holdings.
 
-(Sponsor) Most people spend their entire working lives focusing on one thing: growing a pile of money. Then they retire and discover the skill they actually need is close to the opposite. Turning that pile into steady income, year after year, through good markets and bad, without ever running out.
+Turning to broader crypto prices, the board was mostly green.
 
-It may be the least discussed and most consequential transition in personal finance, and plenty of otherwise careful investors walk into it with no real plan. That is exactly what The Definitive Guide to Retirement Income helps answer. It is a free guide from Fisher Investments covering what your retirement will really cost, where the cash flow should come from, and how much you can safely withdraw each year. Learn more here. Learn More Here ›
+World no.2 crypto Ether added 1.8% to $2,353.93, while BNB climbed 0.7%.
 
-Contact editorial@247wallst.com for any questions or corrections.","Title: Bitcoin Has Closed Four Straight Weeks Above Its 50-Week Average. The Last Time It Did That It Tripled Within a Year.
-Summary: A rare pattern in Bitcoin's price history has only appeared twice before, and each time it triggered a dramatic move in completely opposite directions. Which outcome the current streak mirrors could define the next year for Bitcoin holders.
-Content: Bitcoin has closed above its 50-week average ($76,618) for four straight weeks, trading at $83,369 as of October 12, 2026.
+XRP advanced 2.4%, in part due to its parent company, Ripple, receiving final U.S. approval to establish a national trust bank.
 
-The last two times this signal triggered, Bitcoin surged 217% in 2023 but crashed 50% after an initial 170% gain in 2019.
+Solana and Cardano rose 1% and 0.4%, respectively.
 
-A weekly close below $76,618 would end the streak and signal a return to a downtrend, making each week's close critical to watch.
+Among memecoins, Dogecoin and $TRUMP improved 1.7% and 0.5%, respectively.
 
-Bitcoin (CRYPTO:BTC) has closed above its 50-week average for four straight weeks. As of October 12, 2026, Bitcoin is trading at $83,369, while its 50-week average sits at $76,618. If it closes below this average, it would end this current streak.
+Vahid Karaahmetovic and Anuron Mitra contributed to this article
 
-This indicator has appeared twice in the last decade, each time producing very different outcomes. In January 2023, Bitcoin climbed above the average near $23,000 and rose 217% to a high of around $73,000 by March 2024. Conversely, in April 2019, it rebounded to near $5,000 and initially surged 170% to about $13,800 by June, but then fell about 50% to about $6,500 by December of that same year.
+Original Article
 
-So what does a fourth consecutive weekly close above the average suggest about what might happen next for Bitcoin holders?
+Bitcoin up as risk sentiment, oil slip offset Strategy buying pause, Fed caution
 
-The 50-week average is calculated by averaging Bitcoin's closing prices for the past 50 weeks. It helps smooth out price fluctuations, giving a clearer picture of longer-term trends. When Bitcoin stays above this average, it indicates that buyers are dominating the market. If it trades below, it suggests sellers are in control.
+Bitget Wallet adds USD, EUR accounts that convert deposits into stablecoins
 
-------
+Bitcoin faces further downside as oil surge, AI fears weigh on risk appetite","Title: Bitcoin up as risk sentiment, oil slip offset Strategy buying pause, Fed caution
+Summary: Investing.com -- Bitcoin was slightly higher on Tuesday, helped by a surge in risk sentiment and a fall in oil prices. The two factors slightly outweighed caution a day ahead of the Federal Reserve’s interest rate decision and a pause in purchases of the world’s largest cryptocurrency by top corporate holder Strategy.
+Content: Investing.com -- Bitcoin was slightly higher on Tuesday, helped by a surge in risk sentiment and a fall in oil prices. The two factors slightly outweighed caution a day ahead of the Federal Reserve's interest rate decision and a pause in purchases of the world's largest cryptocurrency by top corporate holder Strategy.
 
-Many successful investors eventually reach the same moment. The saving is done, the portfolio is built, and the question quietly changes from how much can I grow this to how much can I take out? Get that second question wrong and decades of good investing can come apart in a handful of years.
+Still guessing which stocks will beat the market? Our AI portfolio updates monthly and is outperforming the S&P 500 by 118%. See this month's list »
 
-That is exactly what The Definitive Guide to Retirement Income helps answer. It covers what your retirement could actually cost, which income sources are worth using, and the withdrawal math that decides whether the money lasts. It is free today from Fisher Investments. Read More Here ›
+Bitcoin was last up 1.3% to $81,119.3 by 17:42 ET (21:42 GMT), recovering after briefly dropping to $79,496.8 earlier. The crypto thus fell below an $80,000 to $87,000 trading range established over the past month.
 
-------
+A risk-on mood dominated proceedings on Tuesday, with equities rising as the artificial intelligence trade surged for a second straight session on enthusiasm around Anthropic's long-awaited initial public offering filing.
 
-The 'weekly close' refers to the last price at the end of each trading week. Traders typically regard this price as more significant than daily closes because it reduces market noise. Since Bitcoin is traded around the clock, a sudden price spike on a single day can briefly push the price above or below the average before reverting back. A weekly close counts only if Bitcoin is above the line when the week ends.
+A decline in oil prices also helped sentiment. Brent crude futures settled 1.5% lower at $114.07 a barrel, after ongoing diplomatic efforts between regional Middle Eastern powers offset supply disruption fears. Iran on Monday held a quadrilateral meeting of itself, Pakistan, Saudi Arabia, and Türkiye.
 
-When Bitcoin achieves four consecutive weekly closes above this average, it sets a higher standard. A single close might be a temporary bounce, but four consecutive ones show buyers have consistently held the price up.
+Crypto market participants were also gearing up for the Federal Open Market Committee's (FOMC) policy decision on Wednesday. The FOMC is broadly expected to leave rates unchanged, after having hiked rates in September for the first time since 2023.
 
-The 2023 signal is often touted as a success story. When Bitcoin reclaimed its 50-week average near $23,000 in January 2023, it skyrocketed 217% to roughly $73,000 by March 2024. Those who interpreted this signal as the start of a new uptrend were vindicated.
+The odds of no action from the FOMC have been reinforced despite hotter-than-expected U.S. consumer and producer inflation reports earlier this month, following Fed Chair Kevin Warsh recently declining to provide any guidance on the decision.
 
-In contrast, the 2019 signal began similarly. After regaining the average near $5,000 in April 2019, it rose to about $13,800 by June—a significant increase. However, this rally was short-lived: Bitcoin fell about 50% to about $6,500 by December, leaving those who held through the year disappointed.
+Elsewhere, Strategy made no bitcoin purchases or sales and sold no shares under its at-the-market program during the week of October 19 to 25, 2026.
 
-Analysts attribute these differences to factors like liquidity, the amount of money flowing into riskier investments, and the timing of halving events, when the rate of new Bitcoin production is reduced. However, with only two instances to reference, these explanations remain speculative.
+As of October 25, it holds about 848,517 bitcoin, bought for a total of $64.02 billion at an average of roughly $75,446 per coin, including fees and expenses.
 
-Bitcoin is currently about 33.9% below its record high of $126,080. It has risen 8.0% over the past 30 days but fallen 3.2% in the last week. This mix of trends could indicate a scenario similar to either of the previous signals.
+During the week, the company repurchased 2,068,459 shares of its STRC preferred stock (Variable Rate Series A Perpetual Stretch Preferred) for $204.9 million, paid from USD cash reserves. It bought back no other security class.
 
-The 50-week average is always changing. Each week, the oldest closing price drops out of the calculation while the most recent price is included, slightly altering the average Bitcoin needs to maintain.
+Strategy did not disclose why it had purchased no new Bitcoin. But a pause in its buying offered some negative cues to markets, especially after the company sold some of its Bitcoin holdings earlier this year.
 
-This four-week streak strongly suggests Bitcoin's trend may be shifting upward. However, it doesn't necessarily indicate how far the price will rise or how long this trend will last. Both past signals preceded significant gains, but one of those gains was largely lost by the year's end.
+Despite recent underwhelming price performance, Galaxy said it remains confident in Bitcoin's long-term prospects and that now is the time to accumulate.
 
-For now, holders should pay close attention. A weekly close below the average, currently around $76,618, would end the streak and suggest a shift back towards a downtrend. Until then, either a repeat of the 2023 rally or a downturn like 2019 remains possible.
+""We think the bear market ended in June and that bitcoin is in the accumulation phase that has preceded every prior advance,"" Alex Thorn, head of firmwide research at Galaxy, said in a note titled ""Why now is the time to add and hold BTC.""
 
-It may be the least discussed and most consequential transition in personal finance, and plenty of otherwise careful investors walk into it with no real plan. That is exactly what The Definitive Guide to Retirement Income helps answer. It is a free guide from Fisher Investments covering what your retirement will really cost, where the cash flow should come from, and how much you can safely withdraw each year. Learn more here. Learn More Here ›
+Unsure what to buy ahead of earnings? Our AI's recent pre-earnings calls delivered gains of +77% to +118% after results dropped. See this month's earnings picks »
 
-Contact editorial@247wallst.com for any questions or corrections.",summary_and_content
+Thorn said the bear market likely ended in June with prices under $58,000, and that improving chart signals, reduced selling pressure and mounting fiscal risks make the largest cryptocurrency by market capitalization attractive to accumulate.
+
+He pointed to bitcoin's recovery above its 50-week moving average after 44 weeks below it. Five consecutive weekly closes above that level have strengthened his conviction that a bottom is in.
+
+Thorn also highlighted that asset managers' net long exposure through CME bitcoin futures has dropped 57% since the week of the record high, while several major trading firms substantially cut ETF holdings.
+
+""The fast money has left, the base stayed, and everything else is priced for perfection,"" Thorn said.
+
+Rising U.S. debt, persistent deficits and growing interest costs strengthen Bitcoin's appeal as a fixed-supply asset, he said.
+
+Cathie Wood's Ark Invest bought 65,615 shares of Circle Internet Group, worth $5.2 million, for its Next Generation Internet ETF on Monday. It also sold $15.9 million of its own spot ARK 21Shares Bitcoin ETF from two of its funds, as Bitcoin extended its slide.
+
+As of Oct. 27, Circle is the fifth-largest holding in ARKW, at a 4.3% weighting worth about $67.8 million, according to Ark's latest disclosures. Tesla, Meta, Shopify and Amazon round out the fund's other top holdings.
+
+Turning to broader crypto prices, the board was mostly green.
+
+World no.2 crypto Ether added 1.8% to $2,353.93, while BNB climbed 0.7%.
+
+XRP advanced 2.4%, in part due to its parent company, Ripple, receiving final U.S. approval to establish a national trust bank.
+
+Solana and Cardano rose 1% and 0.4%, respectively.
+
+Among memecoins, Dogecoin and $TRUMP improved 1.7% and 0.5%, respectively.
+
+Vahid Karaahmetovic and Anuron Mitra contributed to this article
+
+Original Article
+
+Bitcoin up as risk sentiment, oil slip offset Strategy buying pause, Fed caution
+
+Bitget Wallet adds USD, EUR accounts that convert deposits into stablecoins
+
+Bitcoin faces further downside as oil surge, AI fears weigh on risk appetite",summary_and_content
+9,0.5851492,"Bitcoin faces further downside as oil surge, AI fears weigh on risk appetite",Investing.com,2026-10-27 13:53:17+00:00,https://finance.yahoo.com/markets/crypto/articles/bitcoin-faces-further-downside-oil-135317653.html,"Investing.com -- Bitcoin faces further downside after a sharp selloff last week, as renewed geopolitical tensions, fears of an artificial intelligence bubble and tightening global liquidity weigh on risk appetite, according to digital asset investment firm Hilbert Group.","Investing.com -- Bitcoin faces further downside after a sharp selloff last week, as renewed geopolitical tensions, fears of an artificial intelligence bubble and tightening global liquidity weigh on risk appetite, according to digital asset investment firm Hilbert Group.
+
+Still guessing which stocks will beat the market? Our AI portfolio updates monthly and is outperforming the S&P 500 by 118%. See this month's list »
+
+The selloff highlights Bitcoin's vulnerability to shifting macroeconomic conditions, as rising oil prices, geopolitical uncertainty and concerns over stretched technology valuations undermine investor appetite for risk. With the Federal Reserve's policy decision approaching, traders are watching whether tightening liquidity and persistent inflation could trigger further losses across digital assets.
+
+Bitcoin fell 5.4% after reaching $84,800 early last week, recording five consecutive daily declines and briefly breaking below $80,000 to hit a weekend low of $79,200. Hilbert Senior Portfolio Manager Jesse Marre identified the $75,500 level as a critical threshold, warning that a break below it could undermine the bullish market base built since the summer lows.
+
+The weakness in cryptocurrencies coincided with a broader retreat in risk assets. Renewed tensions involving Iran pushed Brent crude oil prices towards $117 a barrel amid speculation about a possible US military offensive. However, oil prices retreated after US President Donald Trump said no immediate offensive was planned, although prices remained elevated.
+
+Technology shares also came under pressure as investors reassessed valuations in the artificial intelligence sector. Nvidia shares fell 8% over the week, while Meta Platforms dropped 9%. The Nasdaq Composite lost about 2%, following an intraw eek decline of roughly 3.6%, while the S&P 500 fell 1%, according to Hilbert's October 26 market update.
+
+Unsure what to buy ahead of earnings? Our AI's recent pre-earnings calls delivered gains of +77% to +118% after results dropped. See this month's earnings picks »
+
+Bitcoin is now testing technical support between $78,500 and $79,500. A recovery above $81,400 could help restore near-term stability, while moves above $85,000 and $87,500 would be needed to strengthen the outlook for another rally. A sustained breakout above $87,500 could open the way towards $95,000-$98,000, Marre said.
+
+Tightening liquidity is adding to the pressure on digital assets. Hilbert's global liquidity index stood at 3.06, while its six-factor model recorded a weekly decline of 0.47 in its Z-score, indicating deteriorating liquidity momentum.
+
+Bitcoin exchange-traded funds recorded net inflows of $442 million over the week despite $635 million in outflows on Thursday alone. The pattern suggested that fund flows largely followed movements in the spot market rather than driving prices, according to the report.
+
+Attention now turns to the US Federal Reserve's policy decision on Wednesday, with markets pricing in an 87% probability that the central bank will leave interest rates unchanged. Marre expects a hawkish hold, with policymakers likely to keep the possibility of a December rate increase open amid persistent inflation and resilient economic growth.
+
+Investors will also assess US personal consumption expenditures inflation and gross domestic product data due on Thursday, followed by the Chicago purchasing managers index on Friday. The releases could influence expectations for monetary policy and determine whether pressure on risk assets persists.
+
+Original Article
+
+Bitcoin faces further downside as oil surge, AI fears weigh on risk appetite
+
+Bitcoin subdued at $80k as Strategy pauses buying, Fed caution weighs
+
+Bitget Wallet adds USD, EUR accounts that convert deposits into stablecoins","Title: Bitcoin faces further downside as oil surge, AI fears weigh on risk appetite
+Summary: Investing.com -- Bitcoin faces further downside after a sharp selloff last week, as renewed geopolitical tensions, fears of an artificial intelligence bubble and tightening global liquidity weigh on risk appetite, according to digital asset investment firm Hilbert Group.
+Content: Investing.com -- Bitcoin faces further downside after a sharp selloff last week, as renewed geopolitical tensions, fears of an artificial intelligence bubble and tightening global liquidity weigh on risk appetite, according to digital asset investment firm Hilbert Group.
+
+Still guessing which stocks will beat the market? Our AI portfolio updates monthly and is outperforming the S&P 500 by 118%. See this month's list »
+
+The selloff highlights Bitcoin's vulnerability to shifting macroeconomic conditions, as rising oil prices, geopolitical uncertainty and concerns over stretched technology valuations undermine investor appetite for risk. With the Federal Reserve's policy decision approaching, traders are watching whether tightening liquidity and persistent inflation could trigger further losses across digital assets.
+
+Bitcoin fell 5.4% after reaching $84,800 early last week, recording five consecutive daily declines and briefly breaking below $80,000 to hit a weekend low of $79,200. Hilbert Senior Portfolio Manager Jesse Marre identified the $75,500 level as a critical threshold, warning that a break below it could undermine the bullish market base built since the summer lows.
+
+The weakness in cryptocurrencies coincided with a broader retreat in risk assets. Renewed tensions involving Iran pushed Brent crude oil prices towards $117 a barrel amid speculation about a possible US military offensive. However, oil prices retreated after US President Donald Trump said no immediate offensive was planned, although prices remained elevated.
+
+Technology shares also came under pressure as investors reassessed valuations in the artificial intelligence sector. Nvidia shares fell 8% over the week, while Meta Platforms dropped 9%. The Nasdaq Composite lost about 2%, following an intraw eek decline of roughly 3.6%, while the S&P 500 fell 1%, according to Hilbert's October 26 market update.
+
+Unsure what to buy ahead of earnings? Our AI's recent pre-earnings calls delivered gains of +77% to +118% after results dropped. See this month's earnings picks »
+
+Bitcoin is now testing technical support between $78,500 and $79,500. A recovery above $81,400 could help restore near-term stability, while moves above $85,000 and $87,500 would be needed to strengthen the outlook for another rally. A sustained breakout above $87,500 could open the way towards $95,000-$98,000, Marre said.
+
+Tightening liquidity is adding to the pressure on digital assets. Hilbert's global liquidity index stood at 3.06, while its six-factor model recorded a weekly decline of 0.47 in its Z-score, indicating deteriorating liquidity momentum.
+
+Bitcoin exchange-traded funds recorded net inflows of $442 million over the week despite $635 million in outflows on Thursday alone. The pattern suggested that fund flows largely followed movements in the spot market rather than driving prices, according to the report.
+
+Attention now turns to the US Federal Reserve's policy decision on Wednesday, with markets pricing in an 87% probability that the central bank will leave interest rates unchanged. Marre expects a hawkish hold, with policymakers likely to keep the possibility of a December rate increase open amid persistent inflation and resilient economic growth.
+
+Investors will also assess US personal consumption expenditures inflation and gross domestic product data due on Thursday, followed by the Chicago purchasing managers index on Friday. The releases could influence expectations for monetary policy and determine whether pressure on risk assets persists.
+
+Original Article
+
+Bitcoin faces further downside as oil surge, AI fears weigh on risk appetite
+
+Bitcoin subdued at $80k as Strategy pauses buying, Fed caution weighs
+
+Bitget Wallet adds USD, EUR accounts that convert deposits into stablecoins",summary_and_content
+10,0.5825643,"$8 Trillion in Big Tech Earnings, Fed Decision and Inflation Data: Bitcoin's Next Big Test?",CCN,2026-10-26 15:32:18+00:00,https://finance.yahoo.com/markets/crypto/articles/8-trillion-big-tech-earnings-153218611.html,"The Federal Reserve's Oct. 28 decision, followed by US inflation and GDP figures, could reshape expectations for interest rates and Bitcoin. Alphabet, Microsoft and Amazon…","Key Takeaways
+
+The Federal Reserve's Oct. 28 decision, followed by US inflation and GDP figures, could reshape expectations for interest rates and Bitcoin.
+
+Alphabet, Microsoft and Amazon report earnings as investors question whether massive AI infrastructure spending can deliver sustainable returns.
+
+Bitcoin's recent weakness near $80,000 puts the spotlight on interest rates, institutional demand and whether crypto can withstand another technology-stock selloff.
+
+Bitcoin faces a critical test during the week of Oct. 26, as major central bank decisions, US inflation data, and earnings from technology giants converge over the course of the week.
+
+The Federal Reserve is expected to announce its interest rate decision Wednesday, followed by third-quarter US GDP and September personal consumption expenditures (PCE) inflation figures Thursday.
+
+Meanwhile, Alphabet, Microsoft, and Amazon will report quarterly earnings, putting the artificial intelligence investment boom under scrutiny.
+
+The timing is particularly important for cryptocurrency markets. Bitcoin recently slipped toward $79,100 after struggling to maintain the $80,000 level, while concerns about inflation and technology valuations have weakened investor confidence.
+
+The Federal Reserve's Oct. 28 announcement is arguably the week's most important scheduled event for Bitcoin.
+
+Following September's rate increase, the federal funds target range stands at 3.75% to 4.00%. Markets largely expect policymakers to hold rates unchanged .
+
+According to CME FedWatch probabilities reported by MarketWatch on Oct. 26, traders assigned approximately a 9% probability to another quarter-point increase this week, rising to 73% for December.
+
+That makes the Fed's forward guidance potentially more influential than Wednesday's decision itself.
+
+Higher interest rates increase the appeal of interest-bearing assets while raising borrowing costs and tightening financial conditions. Bitcoin, which generates no contractual yield, can face pressure when investors demand greater compensation for holding riskier assets.
+
+Coinbase Institutional's Oct. 16 research supports this connection. It found Bitcoin had shown greater resilience than semiconductor stocks during recent AI-related selloffs but remained sensitive to changes in interest rate expectations.
+
+The report identified the $80,000 to $82,000 region as important near-term support, with further downside potentially bringing the $72,000 to $74,500 area into focus.
+
+Wednesday brings earnings from Alphabet and Microsoft, followed by Amazon on Thursday.
+
+Alphabet and Microsoft represent roughly $8 trillion in market value, making their results particularly important for the technology sector.
+
+Investors will examine Microsoft's Azure cloud growth, Alphabet's advertising and cloud businesses, and Amazon's AWS performance. But the bigger question concerns the returns generated by billions of dollars committed to AI infrastructure.
+
+Reuters reported that disappointing results from Meta and Lam Research had already weakened technology stocks, raising concerns about whether AI spending can sustain elevated valuations.
+
+The earnings calendar adds another dimension: approximately 542 companies valued above $2 billion are scheduled to report this week, with Wednesday and Thursday accounting for 73% of the market capitalization represented.
+
+Strong results could restore confidence in growth-sensitive assets, including cryptocurrencies. However, disappointing cloud growth or higher-than-expected capital expenditures could intensify selling pressure.
+
+Bitcoin's reaction is not guaranteed to mirror the Nasdaq. Coinbase's research suggests its correlation with semiconductor stocks has weakened, indicating that monetary policy may currently matter more than AI-related equity movements.
+
+Thursday's economic releases introduce another potential source of volatility.
+
+According to Morningstar's economic calendar, September headline PCE inflation is forecast at 3.6% annually, compared with 3.4% in August. Core PCE is expected at 3.1%, up from 3.0%.
+
+The Bureau of Economic Analysis has scheduled both PCE and third-quarter GDP figures for Oct. 29 at 8:30 a.m. ET.
+
+Higher-than-expected inflation could reinforce expectations of another Fed rate hike in December. Conversely, softer inflation could reduce pressure on Treasury yields and support risk assets.
+
+GDP presents a more complicated picture. Strong growth may indicate economic resilience, but combined with persistent inflation, it could also justify keeping monetary policy restrictive.
+
+International developments add another risk.
+
+The Bank of Japan concludes its policy meeting Friday, Oct. 30, with its benchmark rate currently around 1.25%.
+
+A surprise hawkish signal could strengthen the yen and encourage investors to unwind yen-funded carry trades, potentially reducing liquidity across global financial markets.
+
+For Bitcoin , the central question is whether institutional demand can absorb another macroeconomic shock.
+
+A combination of softer inflation, reassuring Fed guidance, and stronger technology earnings could support a recovery. However, persistent inflation, hawkish central banks, and disappointing AI results could deepen the selloff.
+
+With several major announcements arriving within 48 hours, Bitcoin investors face a test of whether the cryptocurrency can maintain its footing as global financial conditions shift.
+
+Top Trending Crypto Articles
+
+Check Out Our Recommended Exchanges Here
+
+How To Buy Crypto with a Credit Card Now
+
+See Our Picks for the Best Crypto Gambling Sites
+
+The post $8 Trillion in Big Tech Earnings, Fed Decision and Inflation Data: Bitcoin's Next Big Test? appeared first on ccn.com .","Title: $8 Trillion in Big Tech Earnings, Fed Decision and Inflation Data: Bitcoin's Next Big Test?
+Summary: The Federal Reserve's Oct. 28 decision, followed by US inflation and GDP figures, could reshape expectations for interest rates and Bitcoin. Alphabet, Microsoft and Amazon…
+Content: Key Takeaways
+
+The Federal Reserve's Oct. 28 decision, followed by US inflation and GDP figures, could reshape expectations for interest rates and Bitcoin.
+
+Alphabet, Microsoft and Amazon report earnings as investors question whether massive AI infrastructure spending can deliver sustainable returns.
+
+Bitcoin's recent weakness near $80,000 puts the spotlight on interest rates, institutional demand and whether crypto can withstand another technology-stock selloff.
+
+Bitcoin faces a critical test during the week of Oct. 26, as major central bank decisions, US inflation data, and earnings from technology giants converge over the course of the week.
+
+The Federal Reserve is expected to announce its interest rate decision Wednesday, followed by third-quarter US GDP and September personal consumption expenditures (PCE) inflation figures Thursday.
+
+Meanwhile, Alphabet, Microsoft, and Amazon will report quarterly earnings, putting the artificial intelligence investment boom under scrutiny.
+
+The timing is particularly important for cryptocurrency markets. Bitcoin recently slipped toward $79,100 after struggling to maintain the $80,000 level, while concerns about inflation and technology valuations have weakened investor confidence.
+
+The Federal Reserve's Oct. 28 announcement is arguably the week's most important scheduled event for Bitcoin.
+
+Following September's rate increase, the federal funds target range stands at 3.75% to 4.00%. Markets largely expect policymakers to hold rates unchanged .
+
+According to CME FedWatch probabilities reported by MarketWatch on Oct. 26, traders assigned approximately a 9% probability to another quarter-point increase this week, rising to 73% for December.
+
+That makes the Fed's forward guidance potentially more influential than Wednesday's decision itself.
+
+Higher interest rates increase the appeal of interest-bearing assets while raising borrowing costs and tightening financial conditions. Bitcoin, which generates no contractual yield, can face pressure when investors demand greater compensation for holding riskier assets.
+
+Coinbase Institutional's Oct. 16 research supports this connection. It found Bitcoin had shown greater resilience than semiconductor stocks during recent AI-related selloffs but remained sensitive to changes in interest rate expectations.
+
+The report identified the $80,000 to $82,000 region as important near-term support, with further downside potentially bringing the $72,000 to $74,500 area into focus.
+
+Wednesday brings earnings from Alphabet and Microsoft, followed by Amazon on Thursday.
+
+Alphabet and Microsoft represent roughly $8 trillion in market value, making their results particularly important for the technology sector.
+
+Investors will examine Microsoft's Azure cloud growth, Alphabet's advertising and cloud businesses, and Amazon's AWS performance. But the bigger question concerns the returns generated by billions of dollars committed to AI infrastructure.
+
+Reuters reported that disappointing results from Meta and Lam Research had already weakened technology stocks, raising concerns about whether AI spending can sustain elevated valuations.
+
+The earnings calendar adds another dimension: approximately 542 companies valued above $2 billion are scheduled to report this week, with Wednesday and Thursday accounting for 73% of the market capitalization represented.
+
+Strong results could restore confidence in growth-sensitive assets, including cryptocurrencies. However, disappointing cloud growth or higher-than-expected capital expenditures could intensify selling pressure.
+
+Bitcoin's reaction is not guaranteed to mirror the Nasdaq. Coinbase's research suggests its correlation with semiconductor stocks has weakened, indicating that monetary policy may currently matter more than AI-related equity movements.
+
+Thursday's economic releases introduce another potential source of volatility.
+
+According to Morningstar's economic calendar, September headline PCE inflation is forecast at 3.6% annually, compared with 3.4% in August. Core PCE is expected at 3.1%, up from 3.0%.
+
+The Bureau of Economic Analysis has scheduled both PCE and third-quarter GDP figures for Oct. 29 at 8:30 a.m. ET.
+
+Higher-than-expected inflation could reinforce expectations of another Fed rate hike in December. Conversely, softer inflation could reduce pressure on Treasury yields and support risk assets.
+
+GDP presents a more complicated picture. Strong growth may indicate economic resilience, but combined with persistent inflation, it could also justify keeping monetary policy restrictive.
+
+International developments add another risk.
+
+The Bank of Japan concludes its policy meeting Friday, Oct. 30, with its benchmark rate currently around 1.25%.
+
+A surprise hawkish signal could strengthen the yen and encourage investors to unwind yen-funded carry trades, potentially reducing liquidity across global financial markets.
+
+For Bitcoin , the central question is whether institutional demand can absorb another macroeconomic shock.
+
+A combination of softer inflation, reassuring Fed guidance, and stronger technology earnings could support a recovery. However, persistent inflation, hawkish central banks, and disappointing AI results could deepen the selloff.
+
+With several major announcements arriving within 48 hours, Bitcoin investors face a test of whether the cryptocurrency can maintain its footing as global financial conditions shift.
+
+Top Trending Crypto Articles
+
+Check Out Our Recommended Exchanges Here
+
+How To Buy Crypto with a Credit Card Now
+
+See Our Picks for the Best Crypto Gambling Sites
+
+The post $8 Trillion in Big Tech Earnings, Fed Decision and Inflation Data: Bitcoin's Next Big Test? appeared first on ccn.com .",summary_and_content
